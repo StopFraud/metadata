@@ -1,0 +1,11 @@
+- service:
+    name: gravity
+    endpoint: https://gravity-trade.com/ru/contacts
+    
+- service:
+    name: revolt
+    endpoint: https://revolutexpert.co/ru/contacts
+    
+- service: 
+    name: evo
+    endpoint:  https://www.livechat.com
