@@ -9,3 +9,7 @@
 - service: 
     name: evo
     endpoint:  https://www.livechat.com
+
+- service: 
+    name: maxi
+    endpoint:  https://maximarkets.org
