@@ -13,3 +13,7 @@
 - service: 
     name: maxi
     endpoint:  https://maximarkets.org
+    
+- service: 
+    name: st24
+    endpoint:  https://st24online.com
