@@ -3,6 +3,6 @@
     endpoint: https://wentricram.com
     
 - service:
-    name: prtrend
-    endpoint: https://prtrend.top
+    name: activeresist
+    endpoint: https://activeresist.com
     
