@@ -6,3 +6,7 @@
     name: activeresist
     endpoint: https://activeresist.com
     
+- service:
+    name: gzprm-offer
+    endpoint: https://gzprm-offer.com/registration.php
+ 
