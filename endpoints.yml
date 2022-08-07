@@ -1,12 +1,7 @@
-- service:
-    name: wentricram
-    endpoint: https://wentricram.com
-    
-- service:
-    name: activeresist
-    endpoint: https://activeresist.com
-    
-- service:
+ - service:
     name: gzprm-offer
     endpoint: https://gzprm-offer.com/registration.php
  
+ - service:
+    name: coinbasecoinone
+    endpoint: https://www.coinbasecoinone.com
