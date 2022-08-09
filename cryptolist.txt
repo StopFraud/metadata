@@ -1,0 +1,84 @@
+BTC
+ETH
+USDT
+BTC
+ETH
+USDT
+BTC
+ETH
+USDT
+BTC
+ETH
+USDT
+USDC
+BNB
+BUSD
+XRP
+ADA
+SOL
+DOT
+DOGE
+AVAX
+DAI
+MATIC
+SHIB
+TRX
+UNI
+WBTC
+ETC
+LEO
+LTC
+LINK
+NEAR
+FTT
+CRO
+ATOM
+FLOW
+XLM
+XMR
+BCH
+ALGO
+VET
+APE
+FIL
+ICP
+MANA
+SAND
+XTZ
+Bitcoin
+Ethereum
+Thether
+USD Coin
+Bitcoin
+Ethereum
+Thether
+USD Coin
+Bitcoin
+Ethereum
+Thether
+USD Coin
+BNB
+Binance USD
+XRP
+Cardano
+Solana
+Polkadot
+Dogecoin
+Avalanhe
+Dai
+Polygon
+Shiba Inu
+TRON
+Uniswap
+Wrapped Bitcoin
+Etherium Classic
+UNUS SED LEO
+Litecoin
+Chainlink
+NEAR Protocol
+FTX TOken
+Cronos
+Cosmos
+Flow
+Monero
+Bitcoin Cash
