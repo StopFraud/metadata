@@ -19,12 +19,21 @@ What is ether (ETH)?
 What is Proof of Stake (PoS) Ethereum?
 What is Ethereum difficulty?
 Why is frypto crashing?
+So indeed, what is Crypto?
 What are the benefits of blockchain technology?
 What is Merkel Tree?
+what is crypto mining
+What are some of the advantages of implementing enterprise blockchain?
 What do you need to mine Ethereum?
+why is crypto down
+how to mine cryptocurrency
+how to invest in cryptocurrency
+why is crypto crashing
 How much Ethereum can I mine in a day?
 What do you mean by blocks in Blockchain technology?
 What is the hashrate of Ethereum?
+What feature about enterprise blockchain is accurate?
+What areas of cybersecurity does blockchain have the potential to improve?
 How do you explain Blockchain technology to someone who doesn't know it?
 Differentiate between Blockchain and Hyperledger
 Can you mine Ethereum on a Mac?
@@ -152,9 +161,20 @@ Where do nodes run a smart contract code?
 What is the Ethereum network and how many Ethereum networks are you familiar with?
 What is a smart contract and list some of its applications?
 How is the hash (Block signature) generated?
+How does a blockchain work?
 List down some of the extensively used cryptographic algorithms
 Where do I report my ordinary income from virtual currency?
 What are the different types of Blockchain?
+Once Libra is created, will Bitcoin disappear?
+How to choose a cryptocurrency?
+How do you pull your money out of crypto?
+How do you mine cryptocurrency?
+Are cryptocurrencies securities?
+What are the different types of cryptocurrency?
+What is proof of stake?
+What does proof of work mean?
+Are NFTs cryptocurrencies?
+Is cryptocurrency a good investment?
 How can you identify a block?
 What happens when you try to deploy a file with multiple contracts?
 Where can I find more information about the tax treatment of virtual currency?
