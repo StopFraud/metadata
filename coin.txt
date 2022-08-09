@@ -20,9 +20,13 @@ What is Proof of Stake (PoS) Ethereum?
 What is Ethereum difficulty?
 Why is frypto crashing?
 What are the benefits of blockchain technology?
+What is Merkel Tree?
 What do you need to mine Ethereum?
 How much Ethereum can I mine in a day?
+What do you mean by blocks in Blockchain technology?
 What is the hashrate of Ethereum?
+How do you explain Blockchain technology to someone who doesn't know it?
+Differentiate between Blockchain and Hyperledger
 Can you mine Ethereum on a Mac?
 What is Ethereum mining?
 What is an ETH address?
@@ -122,12 +126,37 @@ How do I calculate my charitable contribution deduction when I donate virtual cu
 When my charitable organization accepts virtual currency donations, what are my donor acknowledgment responsibilities? (added December 26, 2019)
 When my charitable organization accepts virtual currency donations, what are my IRS reporting requirements? (added December 26, 2019)
 Will I have to recognize income, gain, or loss if I own multiple digital wallets, accounts, or addresses capable of holding virtual currency and transfer my virtual currency from one to another?
+How is Blockchain distributed ledger different from a traditional ledger?
 I own multiple units of one kind of virtual currency, some of which were acquired at different times and have different basis amounts.  If I sell, exchange, or otherwise dispose of some units of that virtual currency, can I choose which units are deemed sold, exchanged, or otherwise disposed of?
 How do I identify a specific unit of virtual currency?
+What does the gas usage in a transaction depend on and how is the transaction fee calculated?
 How do I account for a sale, exchange, or other disposition of units of virtual currency if I do not specifically identify the units?
 If I engage in a transaction involving virtual currency but do not receive a payee statement or information return such as a Form W-2 or Form 1099, when must I report my income, gain, or loss on my Federal income tax return?
+Is crypto that I received through staking or forking taxable?
+Is crypto treated as capital gains or income tax?
+Explain a real-life use-case where Blockchain is being used.
+If I bought crypto with another crypto, is it a taxable event?
+What is the nonce and how is it used in mining?
+What is cryptography? What is its role in Blockchain?
+What is a 51% attack?
+My exchange marked crypto I transferred to myself as taxable. What should I do?
+Do I have to pay taxes on my crypto even if I don't receive tax forms from my exchange?
+What are function modifiers in Solidity?
 Where do I report my capital gain or loss from virtual currency?
+What happens if the execution of a smart contract costs more than the specified gas?
+What is a Genesis Block?
+What is the very first thing you must specify in a Solidity file?
+What is the difference between Bitcoin and Ethereum?
+What is a Dapp and how is it different from a normal application? 
+Where do nodes run a smart contract code?
+What is the Ethereum network and how many Ethereum networks are you familiar with?
+What is a smart contract and list some of its applications?
+How is the hash (Block signature) generated?
+List down some of the extensively used cryptographic algorithms
 Where do I report my ordinary income from virtual currency?
+What are the different types of Blockchain?
+How can you identify a block?
+What happens when you try to deploy a file with multiple contracts?
 Where can I find more information about the tax treatment of virtual currency?
 What records do I need to maintain regarding my transactions in virtual currency?
 Do I have income if I provide someone with a service and that person pays me with virtual currency?
