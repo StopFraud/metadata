@@ -14,10 +14,63 @@ Is crypto good for beginner investors?
 How can one invest in cryptocurrency?
 Is it still possible to make a lot of money with Crypto?
 Is cryptocurrency legal?
+Does virtual currency paid by an employer as remuneration for services constitute wages for employment tax purposes?
 What makes cryptocurrencies valuable?
+How do I determine my basis in virtual currency I receive for services I’ve provided?
+Is it safe?
+How do I calculate my income if I provide a service and receive payment in virtual currency?
+Does virtual currency received by an independent contractor for performing services constitute self-employment income?
+How is virtual currency treated for Federal income tax purposes?
+I’m in. How do I buy crypto?
+How do I determine my basis in virtual currency I receive for services I’ve provided?
+Will I recognize a gain or loss if I pay someone with virtual currency for providing me with a service?
+How do I calculate my gain or loss when I pay for services using virtual currency?
+Will I recognize a gain or loss if I exchange my virtual currency for other property?
+How do I calculate my gain or loss when I exchange my virtual currency for other property?
+How do I determine my basis in property I’ve received in exchange for virtual currency?
+Will I recognize a gain or loss if I sell or exchange property (other than U.S. dollars) for virtual currency?
+How do I calculate my gain or loss when I exchange property for virtual currency?
+How do I determine my basis in virtual currency that I have received in exchange for property?
+One of my cryptocurrencies went through a hard fork but I did not receive any new cryptocurrency.  Do I have income?
+One of my cryptocurrencies went through a hard fork followed by an airdrop and I received new cryptocurrency.  Do I have income?
+How do I calculate my income from cryptocurrency I received following a hard fork?
+How do I determine my basis in cryptocurrency I received following a hard fork?
+I received cryptocurrency through a platform for trading cryptocurrency; that is, through a cryptocurrency exchange.  How do I determine the cryptocurrency’s fair market value at the time of receipt?
+I received cryptocurrency in a peer-to-peer transaction or some other type of transaction that did not involve a cryptocurrency exchange.  How do I determine the cryptocurrency’s fair market value at the time of receipt?
+I received cryptocurrency that does not have a published value in exchange for property or services.  How do I determine the cryptocurrency’s fair market value?
+When does my holding period start for cryptocurrency I receive?
+Do I have income when a soft fork of cryptocurrency I own occurs?
+I received virtual currency as a bona fide gift.  Do I have income?
+How do I determine my basis in virtual currency that I received as a bona fide gift?
+What is my holding period for virtual currency that I received as a gift?
+If I donate virtual currency to a charity, will I have to recognize income, gain, or loss?
+How do I calculate my charitable contribution deduction when I donate virtual currency?
+When my charitable organization accepts virtual currency donations, what are my donor acknowledgment responsibilities? (added December 26, 2019)
+When my charitable organization accepts virtual currency donations, what are my IRS reporting requirements? (added December 26, 2019)
+Will I have to recognize income, gain, or loss if I own multiple digital wallets, accounts, or addresses capable of holding virtual currency and transfer my virtual currency from one to another?
+I own multiple units of one kind of virtual currency, some of which were acquired at different times and have different basis amounts.  If I sell, exchange, or otherwise dispose of some units of that virtual currency, can I choose which units are deemed sold, exchanged, or otherwise disposed of?
+How do I identify a specific unit of virtual currency?
+How do I account for a sale, exchange, or other disposition of units of virtual currency if I do not specifically identify the units?
+If I engage in a transaction involving virtual currency but do not receive a payee statement or information return such as a Form W-2 or Form 1099, when must I report my income, gain, or loss on my Federal income tax return?
+Where do I report my capital gain or loss from virtual currency?
+Where do I report my ordinary income from virtual currency?
+Where can I find more information about the tax treatment of virtual currency?
+What records do I need to maintain regarding my transactions in virtual currency?
+Do I have income if I provide someone with a service and that person pays me with virtual currency?
+What is virtual currency?
+How do I determine my basis in virtual currency I purchased with real currency?
+Will I recognize a gain or loss when I sell my virtual currency for real currency?
+OK, I've also heard about smart contracts and decentralized applications. What are they?
+What is a cryptocurrency?
 Is investing in cryptocurrencies the same as gambling?
+Is crypto as bad for the environment as everybody says it is?
 Is it wise to invest in cryptocurrency?
+How do I calculate my gain or loss when I sell virtual currency for real currency?
+So is it actually a currency?
 Can I use any of the cryptos I own?
+How do I determine if my gain or loss is a short-term or long-term capital gain or loss?
+The 2020 Form 1040 asks whether at any time during 2020, I received, sold, sent, exchanged, or otherwise acquired any financial interest in any virtual currency. 
+The 2021 Form 1040 asks whether at any time during 2021, I received, sold, exchanged, or otherwise disposed of any financial interest in any virtual currency
 Is investing in cryptocurrencies the only way to make money?
 Will cryptocurrencies definitely make me rich?
 Why do cryptocurrencies increase and decrease in value so quickly?
