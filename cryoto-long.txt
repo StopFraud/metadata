@@ -2081,3 +2081,855 @@ Once you master your emotions you can trade without bias, putting you on the pat
 thank you for reading! ♥ And don't forget to share this e-book with your friends and familY! All rights reserved.
 No part of this book may be reproduced or used in any manner without written permission of the copyright owner.
 © 2021 by Finance Illustrated.
+1Profiting FromcryptocurrenciesHow to profit from Bitcoinand cryptocurrencies in just20 mins a day(Includes section on How to Invest in Initial CoinOfferings – ICOs)Marcus de Maria2Risk and Disclaimer:These Terms and Conditions form a part of InvestmentMastery Enrolment agreement with you (this ‘Agreement’)and apply to all online Membership coursesYourCryptoBook that are specified below and for whichyou wish to enrol (‘YourCryptoBook’ or ‘YCB’), to theexclusion of all other terms and conditions issued orstipulated by anyone else other than Investment Mastery.The information presented by Investment Mastery or anyof its staff is for educational purposes.
+Any examples usedare for educational and illustrative purposes only.Investment Mastery is not a stockbroker, broker dealer, orinvestment advisors.
+They are not recommendingparticular stocks, options, forex, CFD, Cryptocurrencies.The names of any firms of Crypto Exchange, stockbroker,stock exchange, financial institutions, financial planners,bookmakers, or financial websites mentioned are forillustrative purposes only.
+The decision on which companyto use if any is at the total discretion of each individualperson.
+It is recommended that you seek a professionallicensed broker prior to implementing any investmentprogramme or financial plan.
+The world ofCryptocurrenceis is HIGHLY speculative and you can loseall your investments.
+Investment Mastery cannotguarantee any results or investment returns based on theinformation you receive.
+You must read and understandthe above and be aware of the risks of all trading andinvesting and be willing to accept them before investing.34Table Of Contents – Chapters and Headings1.
+Introduction2.
+What are the benefits and what problem does it solve?3.
+Why is it important for YOU?4.
+What are the main cryptocurrencies and what do they do?5.
+Where is the value of cryptocurrencies, how are prices determinedand what could Bitcoin be worth in the future?6.
+How to make money with cryptocurrencies?7.
+How to start buying Bitcoins, Ethereum and other Altcoins8.
+Which strategies do I use?9.
+How to keep your cryptocurrencies safe and store them10.
+How to track them once you have bought them11.
+How to make money i.e.
+when to sell them12.
+Is it too late to get into cryptocurrencies – have you missed theboat?13.
+What is an Initial Coin offering (ICO) and how to profit from it?14.
+Asset allocation and how much to invest in cryptocurrencies15.
+Are there any drawbacks to investing in cryptocurrencies?16.
+The future of cryptocurrency17.
+Cryptocurrency Frequently Asked Questions (FAQs)18.
+APPENDIXBitcoin White Paper – a Must Read for allHistory of Money56ForewordI am not going to print this bookThe changes that are happening on an almost day to daybasis means that if I print it, parts of the book will beredundant within a few monthsCryptocurrencies and the Blockchain will change the waywe see the world.It cuts out middlemen, fees and timewasters.And at the same time, fortunes will be made.Not just by the owners of the companies, but by thoseindividuals who are brave enough to get involved at thisearly stage in investing in Cryptocurrencies, ICOs andcompanies set to benefit from blockchain technology.This book was written for you, the beginner, in mind.I hope it helps.The best is yet to come.To your successMarcus de Maria71.
+Introduction“Science-Fiction is now Science-fact”- UnknownAt the end of 2016 I read that some cryptocurrencies had gone up by 5000% injust 12 months.
+I decided to do some research, fast.
+This is what I found: $100worth of Bitcoins bought in 2010 would be worth well over $27 million today.How could I have missed out on those returns? It was time to get in.A few weeks of research later and I had bought 15 different cryptocurrenciesusing speculation money.
+Most of the coins quickly went into profit, somesubstantially.
+I decided I needed to take this more seriously and really do someresearch.
+If not me then who? If not now then when? You have to be in thegame to win it!I paid several thousand dollars for the best crypto subscription service I couldfind, and started buying more and more cryptos based on theirrecommendations.
+I got obsessed – I was even listening to it while goingrunning.
+At the time of writing, I now own more than 36 different cryptos andover 50+ positions, have banked some profits and am still up over 70% on myentire investments.
+Not a bad start.8As you can see, I invested $73,000 and made a profit of $64,000 which is an88% gain.
+This happened in as little as just 3 months.
+This was definitely helpedby a fast growing Altcoin called NEO.
+I invested just $850 and turned that into$26,300 profit! I am not sure where else you can do that at the current timebut it is possible with cryptocurrencies.So what are cryptocurrencies and where did it all start?1.
+A decentralised system for sending money to other peopleMost payment systems run on a centralised network.
+The problem with this isthat you have to incur unnecessary and expensive transaction fees.
+Usually,this is done by a central server that keeps track of your balances i.e.
+your creditcard and/or the banks.
+It can also take several days for one bank to talk toanother bank and so sending money becomes both expensive and takes toolong.A programmer calling himself Satoshi Nakamoto successfully found a way tobuild a decentralised digital cash system, thus avoiding the need for acentralised system.
+He describes it in a surprisingly simple way in his WhitePaper for Bitcoin, which I have added in the Appendix.
+You should read itbefore buying Bitcoin.9A decentralised system means the network is powered by its users withouthaving any third party, central authority or middleman controlling it.
+Neithercentral banks or Governments has power over this system.2.
+What are cryptocurrencies?Cryptocurrencies are digital currencies which can be used to digitally transfermoney to another person safely, without having to use intermediaries ortrusted third parties, like a bank or Visa, e.g., to verify that you have sent themoney and the money is now no longer yours.
+You might want to read thatsentence again, slowly.
+In addition, it does it much faster at a fraction of thecost because it does away with unnecessary and expensive transaction fees.Why 'crypto'?The way digital currencies provide safety is two-fold.
+The first is that it usesEncryption technology (hence the name cryptocurrency).What is the blockchain?10The second way is to have a public ledger, where all the transactions are kept.Thousands of computers around the world are linked together to display thisledger.
+They refresh and update every few minutes.
+This network of computersall linked together in this way is called the blockchain.
+You can trust it becauseit means that each transaction has been verified again and again by all thecomputers (the blockchain).
+With thousands of computers linked up all overthe world saying the same thing, the ledger’s integrity is upheld.
+Eachcryptocurrency can have its own blockchain, although some are shared.How does this work?Imagine I send you 10 dollars and you send the 10 dollars to someone else.Somehow someone has to keep track of these transactions, to avoid forgeriesor anyone claiming they haven’t received the money.
+In the past, Central Banksor banks have kept details of the transaction on something called a ledger.
+Thisis based on a centralised system.
+With Bitcoin, currently the main digitalcurrency, the whole system was turned on its head.
+Instead of a centralisedsystem controlling the ledger, now thousands of computers, all around theworld, each keep a copy of this Ledger.
+Every single transaction is kept there,from the beginning to present day.
+This is a decentralised system, called the‘blockchain’.Please note that money in itself does not have any intrinsic value – it is onlybecause we believe that it has value that it is worth anything.
+Money is just atracking system – we track what we own and what we owe.
+This is called aledger.
+Whatever form of money exists, we give it value because of its utility asa ledger (or tracking system of who owes what).
+That’s what the blockchain is –a giant decentralised ledger.Why are so many computers necessary?11The idea comes from airplane safety.
+If you have one computer flying the planeand the system crashes, the airplane could crash.
+The thought was that if therewere three computers, and one crashed, then the fact that two computerswere saying something different to one meant that the two outweighed theone and the plane would continue even if one crashed.
+The inventors of theblockchain took it one step further and wanted as many computers as possibleto be in on it.
+So if there is a disagreement on a few computers of theblockchain, whatever the majority e.g.
+51% are saying will win and thatinformation is put on the ledger on all the computers.A particularly brilliant analogy for this comes from Nick Szabo, the inventor ofBitgold, which many view as the precursor of Bitcoin.
+Imagine a fly trapped inamber.
+If there is only a small layer of amber, we know that the fly has notbeen trapped for very long.
+But if there is a big block of amber, we know thatthe fly has been trapped for a long time – no one can dispute that.The blockchain computers are forming a layer of amber every time atransaction occurs.
+Once the amber covers the transaction, it is very difficult tochange.
+Each layer of amber on top makes it more difficult to change.
+Each daymore information and more amber are layered on top.12In other words, millions of small transactions, i.e.
+me sending you some moneyin another country, are documented on the blockchain, locking them in forgood, so that they can’t be changed afterwards.
+The information (or fly) istrapped as irrefutable evidence and the transaction can’t be undone.
+That'sthe whole point of the decentralised system – the computers allow it to remaindecentralised and in the hands of many as opposed to the hands of a few whoare trying to control the many.What are miners?There are two ways of getting Bitcoin.
+You can either buy one at the currentprice (today’s price is $4,200 for one Bitcoin) or you can ‘mine’ it.
+The analogyis like mining for Gold.
+However, with digital currencies it is slightly different,as you don’t have to go down a mine to do so.
+With cryptocurrencies, you haveto do it through something called, ‘Proof of Work’.
+Proof of Work refers to thefact that if you want a Bitcoin, you have to literally prove that you have donework and in return you get paid in Bitcoin tokens.In cryptocurrencies this is done by creating a scenario where if you want to getpaid in Bitcoins, you have to do something which is not easy to do i.e.
+you haveto commit your computers to solving puzzles or mathematical functions.
+If thecomputer solves the puzzle then it proves that you have dedicated power,time, effort, heat and computation to solve the problem.
+The more you do thisthe more of a ‘vote’ you are allowed to have.
+This vote is embodied in a Bitcointoken.
+You receive a token of Bitcoin (a fraction of a Bitcoin) in return formining it.Only miners are able to confirm a transaction.
+This is their role in thecryptocurrency network.
+They record transactions, verify them and dispersethe transactional information in the network.For every completed transaction monitored and facilitated by the miners, theyare rewarded with a token of cryptocurrency, for instance with Bitcoins.13What this does is introduce scarcity into the system.
+Scarcity is importantbecause the only way anything has any value is because it is scarce.
+If Gold, likepebbles, were to be found everywhere, it wouldn’t have any value.
+ButBitcoins are not easy to mine – it takes computational power and time to do itAND there are a maximum of 21 million that can ever be mined.
+This createsinstant scarcity.TermsAn Altcoin (Alternative coins) is the name given to coins which were set up tocompete with Bitcoin, like Dash, Litecoin and even Dogecoin.
+The term‘crypto’, short for cryptocurrency, is used for all coins.A digital currency is a virtual currency.
+It is unregulated, issued and usuallycontrolled by its developers, and used and accepted among the members of aspecific virtual community.
+It is a medium of exchange that operates like acurrency in that specific environment but not necessarily outside of it.A cryptocurrency is a currency based on certain principles of cryptography.
+It isa type of digital token that relies on these principles to chain together digitalsignatures of token transfers.
+It is based on a peer-to-peer network and it isdecentralised.In most situations, cryptocurrency is also a digital currency, though, in evenmore cases, digital currency is not a cryptocurrency.Summary:Bitcoin is a software program that allows people to securely transfer moneyover the internet without a bank.It does this by replacing the function of a bank with a network of computersrunning the software that verifies and transfers the money.These computers, known as miners, maintain a global ledger of transactionsthat is used to validate, verify and transfer money.142.
+What are the benefits ofCryptos and whatproblem do they solve?The new digital revolution of money.Cryptocurrency has many appealing benefits.
+Some of this is thanks to theblockchain technology previously mentioned.
+It is a strictly monitored processwith encrypted transaction and control.A quick history of moneySince the beginning of human time, people have used something scarce as asource of value.
+At the start they used bartering one object for another.
+Buthow can you buy a cow if you only have two chickens? A third entity wasneeded, so they used the scarcest of seashells.
+Then came coins made ofprecious metals.
+At the beginning, coins did not have a value stamped onthem, rather the coins were weighed.
+Only later was an actual value stampedonto the coin.Next was paper money backed by precious metal e.g.
+Gold.
+The idea was thatyou could literally walk into a bank and ask for the equivalent of your banknotes in Gold.
+Then paper was taken off the Gold Standard and was not backedby anything, allowing the printing of money to flourish.
+This is the current ‘fiat’money.15The problem is that fiat money is not scarce.
+More money can be printed andso every year it is worth less and less.
+The only store of value that retains itsvalue is Gold.
+But Gold is not easy to store, not easy to sub-divide and not easyto transport.For a full breakdown of the timeline of the History of Money, see Appendices.Scarcity is an essential part of cryptos.
+Take the largest, Bitcoin for example.
+Asalready stated, only 21 million will ever be made, so scarcity is part of thesystem.1.
+No Third-Party InvolvementThere’s always a process you go through when using traditional money to buyyourself a new property, set up your own business or buy a new car etc.
+Oneway or another, the process requires a third-party involvement.
+We are talkinglawyers, owners and some other external factors such as delays,documentation, extra fees etc.
+This in general will consume unnecessary time,money and energy to the point of giving up in some cases.Recently, I wanted to send some money over to the USA.
+In order to do that, Ihad to pick up the phone to my bank.
+I was stuck in a queue listening to musicfor over eight minutes just to start the process.
+I was then charged for sendingthe money plus an extortionate Foreign Exchange rate which did not resemblethe real rate.
+Finally, since the transaction was via something called anintermediary bank, I was told that they would likely charge me as well,although they could not tell me how much.
+The money, I was told, would bethere within 3-5 working days.
+Since it was a large amount of money the wholething probably cost me over $200 if you include the Foreign Exchange spread,maybe more.
+I agreed to everything because, well, I didn’t have manyalternatives.With cryptos, I can send Bitcoins directly to the other person from mycomputer to theirs online, within 10 minutes.
+There is no spread, no ForeignExchange (Forex) charge, intermediaries etc.
+And the whole thing might costme $10 maximum.So if you want to save a lot of time and money then cryptos are the way to go.16In short, you are in control of your own money using cryptocurrency.
+This iswhat we call the ‘decentralised’ system.
+It is possible to be able to pay andreceive money anywhere in the world at any given time.
+Your transactions arepractically immune to any influence from your Government, with minimumprocessing fees, thus preventing users from having to pay extra charges frombanks or any financial institutions.Now imagine this in EVERY part of society – from legal contracts between twocompanies to sending money across the world; from keeping money in escrowwhen buying a house to online payments.
+Basically, anywhere where there iscurrently a ’middleman’ who is either 1.
+Slowing it down, or 2.
+Making it moreexpensive.2.
+Lower risk than traditional currenciesIn this era, most people rarely have their cash in their possession now.
+Instead,they have an array of credit cards, debit cards and other payment cardsavailable as their nation’s method of payment.
+Nothing’s wrong with that,however if the store’s connection to the server is disconnected or theirmachine is out of service, and you do not possess any cash, you cannot pay.When using your card, you are giving the end-receiver access to your full-creditline.
+No matter how small the amount of the transaction is, the fact that youare giving someone your card to gain access to your account is already a formof ‘breach’.
+Most of this ‘breach’ is considered secure nowadays using differingsafety measures like ‘PIN enabled’ or other methods.
+Then the store initiatespayment by ‘pulling’ the designated amount from your account using theinformation provided within your card.Cryptocurrency doesn’t work that way.
+Instead of a ‘pulling’ mechanism, it‘pushes’ the amount that is needed to be paid or received to othercryptocurrency holders without any further information needed.
+Payments arepossible without your personal information being tied to you or thetransaction.
+Your account can be backed up and encrypted to ensure the safetyof your money.By allowing users to be in control of their transactions helps keep Bitcoin, Etheror other larger cryptocurrencies safe for the network.173.
+Protection from fraudWe often hear of cases where someone’s payment card is being used by otherusers but not the owner.
+When contacting his card’s service issuer, it is foundthat the card has made certain transactions without his consent.
+This is whatwe call a fraud case.Most of the time the perpetrators of these fraud cases get away with the crimebecause it is not easy to trace the fraud back to the perpetrator.
+What’s moreit is even difficult to get the attention of law enforcers to launch aninvestigation.However, cryptocurrency is not viable to be used for fraud.
+Due to the fact thatyour personal information is kept hidden from prying eyes, this protects youagainst identity theft.Remember, cryptocurrency is a form of digital money, created from code.Individual cryptocurrencies are, as mentioned, digital and cannot becounterfeited by senders.Because the transactions cannot be reversed, they do not carry with them anypersonal information.
+This ensures security and the merchants are protectedfrom any potential losses that might occur from fraud cases.It is very hard to cheat using these cryptocurrencies due to its decentralisedsystem and the existing blockchain system.
+It cannot be manipulated byanyone or any organisation thanks to it being cryptographically secure.
+All thecomputers have a copy of all the transactions and the computers arecontinuously talking to each other.
+This is the most secure way of doing it as noone can hack in and make changes.If someone wanted to hack into the blockchain they would be wasting theirtime hacking into just one or a few computers, since the information on themajority of computers always wins.
+So in order to hack in they would have tohack 51% of the computers around the world that make up the blockchain tomake a change.
+The computational power required to do this is prohibitive.18Also it would take some time.
+The blockchain updates or refreshes its dataevery few minutes, giving a would-be hacker a few minutes window to hack inbefore everything is reset.
+After that they would have to start again.
+So notonly would they have to hack into 51% of the thousands of computers aroundthe world that make up the blockchain, but they would also have just a fewminutes window to do it in.4.
+UniversalityOver the course of payment history, nations worldwide had their differingmethods of payments.
+We had bartering or money-goods exchange systems.
+Itwasn't until traders visited other countries that they found out how to tradeitems with one another.Thanks to various innovations and developments, we now have multiplemethods to trade and exchange moneys worldwide.But even with all the upgrades, we are still experiencing problems doingtransactions across the globe.
+There are always currency issues, bankauthorisations, unacceptable payment methods and some other varying issuesexperienced by business owners or travellers abroad.Fact is, not all countries have similar financial procedures.
+Your card orcurrency may not be accepted by other countries and that is a major setbackfor some people.
+For example, most online banking, payment or cash systemrequires additional processing fees for their service.However, cryptocurrencies are not bound by any of the exchange rates,transaction charges, the interest rates or any other fees applied by anycountries.
+They can be used at any time, in any part of the world, withoutexperiencing any problems.It also saves a lot of your time and money by reducing additional spending overtransferring money from and to multiple countries.
+Which meanscryptocurrency operates on an international platform which in turn maketransactions easier than your average bank to bank transfer.Cryptocurrencies have three important properties:1.
+Transactional Property19Cryptocurrency transaction is fast and global.
+Transactions are propagatedimmediately in the network and are confirmed within minutes.
+Since thetransactions are managed by a global network of computers, they do not takeinto account your physical location.
+It is possible for you to send yourcryptocurrency to someone in your vicinity, or even if they are living on theother side of the world.2.
+Monetary PropertiesSome people want to use Gold as a monetary value.
+However, it is not easy tostore, it is not easy to subdivide and it is not easy to send.
+Because it is heavy,sending it would also be costly.
+Cryptocurrencies can be seen as digital goldbecause they are easy to store, easy to subdivide, easy to send & transport andless costly.The currencies are in controlled supply; thus there is a high chance that thevalue of the currencies appreciates over time.
+As mentioned earlier, Bitcoinwill somehow reach its final number somewhere in 2140.3.
+Revolutionary PropertyYou have more control of what is going on in your account and how the systemworks and operates.
+This is due to the decentralised network of peers whichkeeps a consensus on account balances and the transactions made.
+Ascompared to your physical bank account, which can be changed and controlledby people you don’t see and governed by rules you don’t even know (howmany of us really read the small-print?).20I attended the 2017 World Blockchain Conference in London.
+Look, to prove it Ihave a picture of me in the audience.
+Can you see me in the red circle? :--)Two things became clear.
+Firstly, there is big excitement aboutCryptocurrencies and this excitement is growing rapidly.
+The organisers toldme that last year there were only 30 people at the conference.
+This year therewere well over 300 as far as I could see.Secondly, whether believed in cryptocurrencies or not, everyone believed thatblockchain would transform the world.Even people like Jamie Dimon, Head of JP Morgan, who is a fierce critic ofBitcoin, is heavily investing in the blockchain, because of the many applicationsof the blockchain and the potential it has to disrupt most industries, includinghis own.21One strategy I am therefore pursuing is to find current public companies in thestock market which are set to gain from the use of blockchain technology.Some of them are established companies and some of them are fairly new, butyou can buy them on the stock market now.223.
+Why is it important forYOU?"Nothing in life is to be feared, it is only to be understood."– Marie CurieLike most things tech, the realm of cryptocurrency can be a bit complex tomaster and is still new to many.
+But the benefits of purchasing this currencyare surely worth your investment in both time and money.
+Experts have alsopredicted that it may be the next big thing in finance.1.
+Crypto Trading and InvestingBitcoin trading can be very profitable for both professionals and beginners.
+Themarket is new, where arbitrage and margin trading is widely available.
+Thecurrency’s high volatility has also played a major role in bringing new investorsto the trading market.Compared to other financial currencies, Bitcoin has very little barrier to entry.If you already own Bitcoin, no verification is required and you can start tradingalmost instantly.
+Moreover, Bitcoin is not fiat currency.
+This simply means theprice is not related to the economy or policies of any single country.And unlike stock markets, there are no official Bitcoin exchanges.
+Instead,hundreds of Bitcoin exchanges operate 24/7 around the world.
+Because thereare no official exchanges, this results in no official Bitcoin price andthecurrency is known for its rapid and frequent price movements.2.
+Personal SpendingSecondly is personal spending.
+There are millions of items now being sold forBitcoins and this number is only increasing.
+You can use Bitcoin to purchasealmost anything! From buying cars (Tesla) to travelling the world (Cheapair).From buying a Microsoft product to paying Estate Agents.233.
+HUGE potentialWe could well be in the midst of the next Gold Rush.
+If that is the case, do youreally want to miss out?For me personally, I wouldn't want to be the one who said "I knew it was goingto be big, but I was too lazy to do anything about it and yet again I missed outwhile everyone else made a fortune" AND "What if everything I have learnedso far has led me up until this point." I even had the thought “What if I becomethe Warren Buffett of cryptocurrencies? Someone has to – why not me?" LOL.4.
+Don't need a lot of moneyYou don’t need a lot of money to make really sizeable profits – even a fewhundred could turn into tens of thousands.Have you heard of Erik Finman? The teenage Bitcoin millionaire who startedpicking up Bitcoin at only $12 a piece back in May 2011, when he was just 12years old.
+He received the Bitcoin as a tip from his brother and a $1000 giftfrom his grandmother.He now reportedly owns 403 Bitcoins, which holds a value of roughly $4000where it has accumulated to a stash of just over $1.6 million and change.I personally bought £850 worth of Antshares (now called NEO) and turned thatinto over £40,000 in three months.
+Where else can you get 4000% return inthree months?5.
+VolatilityYou might have thought that Forex was volatile.
+You haven't seen anything yet.There are days when the portfolio is down by -15% and the next up by 15%.Individual coins can fluctuate by 50% in one week.
+One of my coins went upover 100% in just one day.
+In stocks, this kind of volatility would take an entireyear!Volatility is our friend – most people are scared of it because they feel theycan’t control it, but it is great.
+How else can we buy low and sell high? An ideais to wait for the coin to go down and start buying into it in order to lower ouraverage price.244.
+We are just at the startThe majority of people haven't heard of cryptocurrencies and even less aboutthe blockchain, meaning the value will increase as they become mainstream.254.
+What are the maincryptocurrencies and what dothey do?There are around 1000 coins/Altcoins.
+Some are legitimate and some may notbe.
+It is imperative that you do your own research before investingWhich ones are the best ones?This changes all the time – do your research.
+We will go more in depth into thisin the Chapter “How do you make money in cryptocurrencies?”Below are the largest coins at time of writing in terms of their marketcapitalisation (price in dollars x number of shares in the market).
+They are in noparticular order:a.
+BitcoinWhat problem does it solve?The first blockchain, solving the problem of duplication and manipulation.
+It'slike Liquid Gold.This is the first ever cryptocurrency invented and remains by far the mostsought after cryptocurrency to date.
+Bitcoin is known as the digital goldstandard in the cryptocurrency network.
+As explained, Bitcoin is the pioneer ofblockchain technology that made digital money possible.It is the first ever decentralised peer-to-peer network powered by its userswithout any central authority or middleman which means no unnecessarycosts are included in the digital money transaction.26One major advantage that it has over other cryptocurrencies is Bitcoins areimpossible to counterfeit or inflate.
+The reason being there are only 21 millionBitcoins created for mining, no more no less.
+Therefore it is predicted by 2140,all Bitcoins will already be mined.Thanks to its blockchain technology, you have ultimate control over yourmoney and transactions without having to go through a third party such as thebank or PayPal.Interesting fact: WikiLeaks would not be here if it weren't for Bitcoin.
+Whencredit card companies stopped their service to WikiLeaks, people used Bitcointo keep the service alive.Media companies and investment firms in South Korea, India, Australia,Canada and Japan have started discussing on how Bitcoin may surpass thevalue of certain fiat currencies in the future as an alternative monetary system.Japan even made it an official currency in April 2017, paving the way for othercountries to do the same.Over the years of Bitcoin’s existence, its value has fluctuated tremendouslyfrom zero to over $4200 per Bitcoin to date.Have I invested in Bitcoin?I buy Bitcoin to then exchange it for other Altcoins, so I hold very few Bitcoins.b.
+EthereumThe second most popular currency is Ethereum.
+It has scored itself the secondspot in the hierarchy of cryptocurrencies.
+This digital currency, launched in2015, is predicted to surpass Bitcoin and may be the cryptocurrency of thefuture.Is Ethereum similar to Bitcoin?It is in a way, but not really.
+Like Bitcoin, Ethereum is a part of a blockchainnetwork.
+The main difference between the two currencies is that the Bitcoinblockchain focuses on tracking ownership of the digital currency while theEthereum blockchain focuses on running the programming code or network.27Instead of having to build an entirely original blockchain for each newapplication, Ethereum enables the development of thousands of differentapplications in a single platform.
+In the Ethereum blockchain, miners work toearn Ether.
+Ether is a crypto token that helps run the network.Another use of the Ethereum blockchain is its ability to decentralise anyservices that are centralised.
+For instance, Ethereum is able to decentraliseservices like loans provided by banks, online transactions using PayPal as wellas voting systems and much more.Ethereum can also be used to build a Decentralised Autonomous Organisation(DAO).
+A DAO is a fully autonomous organisation without a leader.
+DAOs arerun by programming codes on a collection of smart contracts written in theEthereum blockchain.
+DAO is designed to replace the structure of a traditionalorganisation and, like Bitcoin, eliminating the need for people and acentralised control.What problem does it solve?Ethereum solves the problems of legal contracts online, eliminating middlementaking fees from transactions.Firstly, a third party cannot make any changes to the data.
+The system is alsotamper and corruption proof.
+This is because Ethereum is built based on anetwork formed around a consensus which, as a result, makes censorshipimpossible.Secondly, just like Bitcoin, Ethereum is backed up by secure cryptography.Therefore, the applications are well protected against any form of hacking.Ethereum went from around $400 to a low of $149 to its current price of $317.Do I hold Ethereum?This is my second largest holding.
+I bought into Ethereum on 10 separateoccasions as the price was falling from its high.
+At time of writing that positionis up by 31%.c.
+Ethereum Classic28A few years back someone hacked into an Ethereum-based application andstole millions.
+There was an internal argument about whether this eventshould be allowed to happen or to go back in time and make good the moneyso no one loses out.
+The purists whoargued that there is no going back inblockchain technology broke away to form the new Ethereum Classic.What problem does it solve?It is essentially the same as Ethereum, so it is unclear why we need two of thesame.
+However, lately it is looking to distinguish itself from Ethereum.Do I hold Ethereum Classic?Yes, I have one position in Ethereum Classic which at time of writing is up220%.d.
+RippleRipple was launched in 2012.What problem does it solve?Banks can use Ripple to make payments faster and cheaper nationally andinternationally.If you have sent money overseas, you will have used a SWIFT code which is anentity with a monopoly on border transfers – in 200 countries, with more than11,000 financial institutions forming its branches.However, Ripple while working together with financial services, banks andinstitutions wants to take down SWIFT and disrupt its functionality.Ripple is actually a technology that has a dual function; as a digital currency aswell as a digital payment network for financial transactions.Unlike the other cryptocurrencies, Ripple operates on an open-source and apeer-to-peer decentralised platform which allows a transfer of money in anyform, both fiat and cryptocurrency.29Ripple uses a middleman in the currency transactions.
+The medium (themiddleman) known as “Getaway” acts as a link in the network between twoparties wanting to make a transaction.The way it works is that the Gateway functions as a credit intermediary thatreceives and sends currencies to public addresses over the Ripple network.This is why Ripple is less popular when compared to the other digitalcurrencies.
+Also, many people don’t like Ripple because they believe thatcryptocurrencies is an answer to the domination of the current banking systemand Ripple works with the banks.Ripple acts as a bridge for other currencies which includes both fiat andcryptocurrencies.
+In Ripple’s network, any currency can be exchanged betweenone another.If user X wants Bitcoins as the form of payment for his services from Y, then Ydoes not necessarily have to possess Bitcoins.
+Y can pay X to X’s Gateway usingUS Dollars or any other currencies.
+X will then receive Bitcoins converted fromthe US Dollars from his Gateway.The nature of Ripple’s network and its systems exposes its users to certainrisks.
+Even though you are able to exchange any currencies, the Ripple networkdoes not run with a proof-of-work system like Bitcoin.
+Instead, transactions areheavily reliant on a consensus protocol in order to validate account balancesand transactions on the system.But Ripple does improve some features of traditional banks.
+Namely,transactions are completed within seconds on a Ripple network even thoughthe system handles millions of transactions frequently.With traditional banks, even a wire transfer may take up days or weeks tocomplete.
+The fee to conduct transactions on Ripple is also very minimal, asopposed to large fees charged by banks to complete cross-border payments.Do I own Ripple?30I have three positions in Ripple due to a Tim Ferris podcast with Nick Szabo, thecreator of BitGold.
+Nick said that the currencies that could cross the bridgebetween the current banking system and the new digital system would be thewinners.
+Ripple is the first to attempt this.At time of writing, this position is up by 14%.e.
+MoneroWhat problem does it solve?The technology solves the problem of privacy.
+People who might be underdictatorship of governments can use Monero to keep their identity hidden.
+Soit has a real function to help the underprivileged in the world regardless ofyour creed, colour, sex etc.
+who might not be able to existing systems, not beable to open a bank account etc.Monero's main goal was to create an algorithm to add the privacy featuresthat is missing in Bitcoin.
+Monero invented a system to conceal the identity ofits senders and recipients.The system combines a user’s private account keys with public keys obtainedfrom Monero’s blockchain to create a ring of possible signers that would notallow outsiders to link a signature to a specific user.While Monero users have the ability to keep their transactions private, theyare also able to share their information selectively.Monero has received the acceptance of multiple dark web marketplaces andhas generated its own fan base due to its privacy settings.
+Therefore, it is lessspeculative as compared to other digital currencies and traders purchaseMonero as a hedge for other cryptocurrencies.Do I own Monero?Yes, I have three positions in Monero which at time of writing are up by 138%.f.
+DashDash – Digital Cash is one of the most promising alternative coins to Bitcoin.31Dash is unlike other cryptocurrency projects like Ethereum or Stratis which aremore of a development platform.Dash advocates itself as peer-to-peer decentralised electronic cash.
+It intendsto be as liquid as real cash which we use in our respective countries.Dash is built upon Bitcoin’s core code with the addition of new features (suchas privacy and quick transactions).Like Bitcoin, Dash is open-source and has its own blockchain, walletinfrastructure, and community.
+But unlike Bitcoin, its transaction fee isnegligible.Moreover, it appears from the attitude of the development community thatDash will only remain as digital money for the Internet, which is a good thing.Dash is designed to have a total supply of 18 million coins.At present, the circulating supply of Dash is over 8 million and it will reach 18million in the year 2300.Do I own Dash?I only have one position which is up by 216%.
+This is one I wish I had more of.
+Iam looking for any weakness in the dollar price to get in again.g.
+LitecoinWhen the currency was first launched, it aspired to be the ‘silver’ to Bitcoin’s‘gold’.The main reason of Litecoin’s creation is to make up what Bitcoin lacked.
+Themain difference between Litecoin and Bitcoin is the 2.5 minute time togenerate a block for Litecoin, as opposed to Bitcoin’s 10 minutes.For miners and technical experts, the Litecoin possesses a very importantdifference to Bitcoin, and that is a more improved work algorithm whichspeeds up the hashing power and system altogether.One of the biggest advantages that Litecoin possesses is it can handle a highervolume of transactions thanks to its algorithm.
+The faster block time alsoprevents double spending attacks.32While Litecoin failed to secure and maintain its second place after Bitcoin, it isstill actively mined and traded and is bought by investors as a backup in caseBitcoin fails.Do I own Litecoin?This is an interesting one because it has a lot of promise but it just doesn’tseem to be going in the right direction.
+If it doesn’t do something soon it mightbe overtaken by some of the promising new coins like Dash.
+I hold one positionwhich at time of writing is up by 22%.You can look up the market capitalisation and more information on theabove on www.coinmarketcap.com335.
+Where is the value ofcryptocurrencies, how areprices determined andwhat could Bitcoin beworth in the future?“Bitcoin will go to $500,000 within three years or I willeat my own penis”- John McAfee, the founder of McAfee software and CEO of MGTCapital Investments and one of the largest Bitcoin miningcompanies in the world.5a.
+Where is the value of Bitcoin and cryptocurrencies?Some people call Bitcoin and the blockchain ‘Internet 3.0’.
+We understandwhy they may see it in this way, however, we have to be clear that Bitcoinis a different technology to the Internet.
+Bitcoin and Ethereum are what iscalled a ‘Fat Protocol’.34For the Internet ‘HTTP’ is a protocol that defines how information is sent overthe Internet.
+On the back of these protocols, programmers built applicationlike Facebook and Google.
+While these protocols created an enormous value,most of the value was captured by the applications that were built on top ofthe Internet.
+Meaning that the people who created HTTP didn’t make moneyand are relatively unknown.
+However, the owners of Facebook and Googlebecame billionaires and are celebrated entrepreneurs.With Bitcoin and a platform like Ethereum, it is the actual network itself that isgenerating the value.
+Tokenholders are the ones who are going to benefit.
+Thevalue will be captured by those building and investing at the blockchainprotocol layer because of the financial incentives (tokens) that are part of thenetwork’s design.Participants of the network (users, developers, investors etc) are incentivisedto grow the blockchain network because as the network expands the tokensare going to be worth more.355b.
+How Are prices determined?A.
+The value of cryptocurrencies are dependent on the market, where theprices of various cryptocurrencies vary a lot and it is one of the mostfluctuating and volatile markets to date.B.
+The price of cryptocurrencies, like any other products, is dependent ondemand and supply.
+If more people demand a particular currency and itis short in supply, then the value increases.
+More units are mined byminers to balance the flow.
+However, most currencies limit the supply oftheir tokens.C.
+Scarcity is an important factor when compared to fiat currencies.
+Fiatcurrencies can be printed every day, making our money worth less everyyear.
+Digital currencies, however, have limited supply.
+For instance, thetotal amount of Bitcoin issued is only 21 million.
+Therefore, Bitcoin’ssupply will decrease in time and will reach its final number by 2140.
+Italso explains why Bitcoin’s value is higher compared to othercryptocurrencies.
+Dash has the same idea, limiting itself to 18.9 million –this might explain why its price is also doing well.36D.
+Trust.
+This one is often overlooked but, like with any currency, tokenswill only have value if people have trust in it.
+Trust comes from a lot ofsources such as the credibility of the developers, the kind of serviceprovided etc.5c.
+What could the price of Bitcoin be?Well, this is the 64 million dollar question, isn’t it?A client of mine and I came up with quasi the same potential possible futurevaluation = $100,000 per Bitcoin.
+This is how we calculated it – it’s not veryscientific.
+If Bitcoin really is Liquid Gold and so becomes the new ‘GoldenStandard’ as a store of value, then you have to figure out the current value ofall the Gold in the world that has been mined.If that is valued at approximately 8 trillion dollars and if Bitcoin reaches thatsame level and there are only 21 million Bitcoins ever mined, then that wouldmean $400,000 per Bitcoin.
+Important here is the scarcity factor – if that everchanged and more were created, then all bets are off.A multi-millionaire investor friend of mine once told me a long time ago that ifyou talk to a start up founder and they say their business is going to make xprofits in y time, and it would take z costs to do it, then it will probably be halfthe amount of profits, take double the amount of time and cost double theamount.
+I have very much taken this to heart throughout my investing career.Therefore, on a potential valuation of $400,000 I would halve it and halve itagain.
+That’s how I came up with a potential number of $100,000.
+I told you,not very scientific.
+It still leaves Bitcoin with a lot of upside.
+I just don’t knowhow long it will take.
+It’s going to take longer than you think.If you feel this valuation is not big enough, then there are others who believeBitcoin could go to $1 million valuation per Bitcoin.
+John McAfee, the founderof McAfee software and CEO of MGT Capital Investments and one of thelargest Bitcoin mining companies in the world has publicly bet that Bitcoin willhit $500,000 within three years or he will eat his own penis.
+That’s a dangerous37thing to say because I think due to its scarcity it will go up but I don’t knowWHEN.There are a few things that could act as a catalyst.
+China has banned bitcoinbefore and unbanned it If it were to unban again then prices would explodeAlso when leverage comes in prices will explode –Now I hope Bitcoin hits $500,000 within three years for more than onereason…386.
+How to make money withcryptocurrencies?There are many ways to make money with cryptocurrencies.
+The four mostpopular ones are:1.
+You can mine themThis is where you use your computer(s) to mine for Bitcoin i.e.
+usethe computational power of your computer(s) to help verifycertain transactions on the blockchain and be rewarded withBitcoin or other coins.In my opinion there is not much money in it for the averageperson.2.
+You can lend themThis is where traders who need margin and leverage borrow yourcoins to trade with.
+They have to give them back to you with a %commission.3.
+You can buy already established cryptocurrenciesThis is the topic of the following chapters.4.
+You can buy new ICOsRecently there have been a flurry of new Initial Coin Offeringswhere, if you get it right, you can invest £1,000 and turn it into £10,000or even £100,000 in a relatively short period of time.
+Therefore, we willalso be discussing this topic.When choosing cryptocurrencies, do your research.
+Don't get caught up in thehype.
+When you are researching, remember to ask:1.
+"What problem is it solving?” If it doesn’t solve a problem then why wouldanyone use it or buy it? And392.
+"Does it have the right team to solve that problem?"Bitcoin and Ethereum are the most widespread by far.
+Imagine them like theReserve Currency of the crypto world – if you wanted to invest in othercryptos, then you have to buy Bitcoin or Ethereum with your local currencyfirst.
+Then you buy the other cryptocurrencies with your Bitcoin or Ethereum.If you don’t want to buy the cryptocurrencies themselves, you can always buya Bitcoin fund or Bitcoin tracker.
+I did this for my daughter in her Junior ISA andit went up 98%, making her just under £2,000 in just three months.This might not seem like a lot of money but £2,000 in three months isn’t badfor an eight year old!What are the signs of a ‘bad’ cryptocurrencyAvoid these signs of a bad cryptocurrency1) Me-too coins – these are coins that do exactly the same as alreadyexisting coins and don’t really add any more benefits or USPs.
+They arejust copying what has already been done.
+Avoid these.
+If, however, theyare sufficiently different and do the same but do it in a much better orfaster or cheaper way etc.
+then it might be worth considering2) Coins for specific industries – what I mean by this is coins that aredesigned for just one market.
+A perfect example is Potcoin.
+I actuallybought some but I regret it now because all they are saying is “here is amarket and we are going to create a coin for this market so everyonecan use this coin to buy marijuana.” But in reality there is no real NEEDfor this coin.
+It doesn’t solve any PROBLEMS.
+You can use Bitcoin orMonero or Ethereum instead.
+Worse still, there are other coins likeDopecoin, Cannabiscoin, Hempcoin doing the same thing.
+Paragon, onthe other hand, is creating a platform for the Marijuana industry – I owntokens in Paragon too.403) Teams that are either too small or unqualified – in reality it is not easyto make a start up successful, and the competition is only going tointensify.
+It is best to check out the backgrounds of the team and see ifthey really do have the experience to pull off what they are suggestingin their whitepaper.
+Also, the team needs to be large enough to handlethis or at least they have to have plans to hire more relevant teammembers.
+A one-man band or three people can’t dominate an industry.4) Low trading volume – it means that that not enough people are buyingand selling.
+This is not a good sign.
+You want to see ever-increasingvolume as the market is waking up to the opportunity.If you take care of the above then you should avoid the majority of coins thatare scams.417.
+How to start buyingBitcoins, Ethereum andother AltcoinsGenerally, you have to buy Bitcoin or Ethereum with your fiat money first.Then you can buy other Altcoins with Bitcoin or Ethereum.There are two ways of buying Bitcoin – through an Exchange or Direct.1.
+Exchangesa.
+Fiat exchangeCryptocurrency exchanges are websites which allow you to buy, sell andexchange cryptocurrencies for other digital currencies or fiat currencies likeUSD or Euro.
+Kraken is one of the largest.
+When I started I used Gemini.The exchanges require you to open an account and verify your identification.Once you have exchanged fiat for Bitcoins, you can then either buy other coins,or in the case of Gemini, you have to then send your Bitcoins to Coinexchanges, like Poloniex, Bittrex or Coinbase (see below).b.
+Coin Exchange42These are websites that connects buyers and sellers where they charge certainfees for a completed transaction.i.
+ReputationBefore you start your exchange on your selected site, ensure you’ve gatheredsufficient information regarding the site such as reviews from professionaltraders as well as well-known industry websites.ii.
+FeesMost exchanges will have fee-related information on their websites.
+Beforejoining any sites, ensure you have understood the exchange jargons: deposit,transaction and withdrawal fees.
+Fees may vary according to the exchange youchoose.iii.
+Payment MethodsTake note of the payment method available.
+Does the site use credit and debitcard? Wire transfer? PayPal? If a particular exchange has very limited paymentmethods then it may not be convenient for you.
+Always remember thatpurchasing currencies via credit card will always require ID verification and itcomes with a premium price to increase the security measures.
+Always checkthe fees for using credit or debit cards, as they can be very high.Meanwhile, purchasing cryptocurrency via wire transfer will take longer as ittakes time for banks to process.iv.
+Verification RequirementsThe majority of Bitcoin’s trading platforms both in the US and the UK require aform of ID verification to make deposits and withdrawals.
+Some exchanges willalso allow you to remain anonymous.
+Bear in mind that verifications may takeseveral days but this is to protect exchanges from any sort of moneylaundering.v.
+Exchange Rate43Do not be surprised that different exchanges offer different rates.
+Therefore,always remember to shop around and to not immediately settle on anexchange.
+This makes a big difference on your investment as cryptocurrencyrates are known to fluctuate in value up to 10% and even higher in somecircumstances.As cryptocurrency is gaining more attention around the globe, there is a vastarray of exchange platforms to choose from.
+But not all exchange platformsare created equal.When I started I transferred GBP from my bank to a Fiat Exchange, like Geminiin USD, where I bought my Bitcoin.From there I would transfer money to my Coin Exchanges, Poloniex and/orBittrex.So I decided to open an account with an Exchange that was present in Europe,Kraken.
+I could send my GBP direct in GBP to Kraken.
+I would then exchangemy GBP for Bitcoin and then send it to either Poloniex or Bittrex.
+RecentlyKraken stopped accepting GBP but people with Euros can still use it.c.
+Examples of Coin Exchangesi.
+Poloniex: this is the first one I ever used.44ii.
+Bittrex: this is the second one I opened.Bittrex has one of the most numbers of coins to trade, that’s why Ilike it so much.
+This is what Bittrex looks like once you have loggedin:iii.
+Kraken: The third one I opened was Kraken.It is one of the largest exchanges in Europe.
+Now that it no longeraccepts GBP I don’t find it as useful, however our Continentalfriends can still use it to send their Euros and purchase Bitcoin.Since the selection of other coins are limited however, unless youare thinking of just holding Bitcoin, Ethereum and some of theother larger coins, you will probably be sending your money toexchanges such as Bittrex or Poloniex.45iv.
+Coinbase: this is the best known.
+No idea why I haven't used it butI haven't :-)Actually while writing this book I realised that I probably shouldopen an account with Coinbase and have even made a video onhow to open the account for the members of our Crypto Club.46An important note: Opening these accounts is simple but it is not easy.
+We areat the beginning of a new technology here.
+Things are getting better but as abeginner it might seem very convoluted at first, some might say downrightconfusing.This is a GOOD thing.
+It keeps the masses away while you and I get ourpositions.
+Once the doors open, everyone will want to get in.
+We will be in agreat position once that happens.
+So be grateful that it is not easy to open anaccount, otherwise everyone would be doing it right now :-)2.
+DirectOne of our traders here used www.localbitcoins.com to exchange GBP intoBitcoin (BTC).
+“I found a seller selling BTC at a predetermined price, got myselfverified as per their instructions.
+And then made a bank transfer to them.
+TheBTC were held in escrow until payment was received.
+As soon as the paymenthas been confirmed the BTC are released.
+I then transferred my BTC from thesite into an exchange.”For an idea of UK exchanges, check out www.bittybot.co/uk for a list of all UKBitcoin exchanges and other exchanges which trade in British Pounds (GBP)ordered by ask price (lowest first).47As always, please do your own research and due diligence.488.
+Which strategies do I use?“After spending many years in Wall Street and after makingand losing millions of dollars I want to tell you this: it neverwas my thinking that made the big money for me.
+It alwayswas my sitting.
+Got that? My sitting tight!”- Jesse Livermore, Millionaire TraderOnce we have opened up our accounts, we can start to invest in the coins.All you need now is a strategy.
+Most people do not have a strategy which theyhave thought about in advance, written down and then follow to the letter.That is the biggest mistake of all.
+Before we start getting into the strategy, hereare a few other mistakes you should try to avoid at all costs:Mistake 1:They invest in something they don’t really understand or believe in long term.Therefore, they are too easily tempted to sell if the price begins to fall in theshort term.To counteract this mistake, start by sticking to the major ones in terms ofmarket capitalisation ie top ten for safety first while you test the market(www.coinmarketcap.com).49If you want something a little bit more advanced with more gadgets but thatbasically does the same thing, then try www.coingecko.comSome people prefer Coingecko because it has its own rating system that takesmore information into consideration before ranking, whereas Coinmarketcaponly uses the market capitalisation to rank it.It is up to you which one you want to use but Coingecko does have morefunctionality:50Mistake 2:They think they have missed the boat on the most successful cryptocurrencies,whose price has run up – think Bitcoin and Ethereum – and so invest in lessestablished, smaller and more speculative coins just because the price is muchcheaper than that of Bitcoin and so have more of an upside.While you can put a small 10% of your money into speculation, the majority ofyour money needs to go into any of the pull-backs that occur on the moreestablished cryptocurrencies.
+A pull-back is a fall in price significant enough forus to enter eg 10% from a recent high.Mistake 3:They try to day trade and profit from short term market movements, both upand down.While this can undoubtedly be profitable for someone who knows what theyare doing, this is absolutely lethal for anyone who doesn’t know proper riskmanagement and who doesn’t have a strategy or has a strategy without theproper risk:reward ratios.
+Anyone who doesn’t have this is going to get killedby the volatility.51There are many different strategies you can use.
+Fundamental analysis relieson data to determine the long term trend of the market and, therefore, thereis very little to do.
+Technical analysis, on the other hand, is the study of shortterm movements in the price.Some people claim that technical analysis, often made up of a myriadcombination of hundreds of different chart patterns and indicators to help youenter the market, can give you an edge.Maybe.I particularly like the picture below where a trader makes fun of technicalanalysis.
+It says “I have decided to brush up on TA (Technical Analysis) so I canbe an expert.
+Looks like a Yeti pattern is forming.
+I can confirm $150 pricetarget!” Hilarious!For people starting out, technical analysis can be confusing.
+So what to do?The answer is: keep it simple.52What do to with a bull cryptocurrencyMy advice would be to do as little as possible and allow the market to do thework, especially in a bull market as we have now.
+I am not advocating buy andhold.
+Rather, to buy on the dips and sell 20-50% of your profit as it goes backup but hold on to the rest for when the big move comes.Take a look at the chart of Bitcoin below.
+There were plenty of opportunities toget in on pull-back in the price and then to gradually sell on the way up.Just keep doing it.
+Rinse and Repeat.
+The only caveat, and it is a big caveat, isthat you do need to believe that it is going to continue up.If it stops going up, then you have to use the following strategy.What do to with a sideways or slightly down cryptocurrencyWhen starting out, we suggest you don’t try to time the market too much i.e.try to get in and out like a professional trader.
+Use a simple yet effectivestrategy like Value Cost Average™ strategy.
+The rules are as follows:53Buy the currency at when it has dropped -10% from a recent high and again at-20% from the recent high and again at -30% from the recent high.
+Draw yourlines in advance, so you get in according to the strategy.
+Make sure you arelooking at a chart which shows the crypto in relation to something stable, NOTin relation to Bitcoin.
+If you can’t find that then write down the price at whichyou are going to enter in advance.
+Each time increase the amount you areinvesting by not more than 25%.Remember that cryptocurrencies have massive volatility.
+Do not get emotionalabout this.
+Expect it.
+Embrace it even.
+Volatility is your friend so you can buy ata cheaper price.
+While everyone else is panicking, you will be entering again.Take a look at the chart below of Monero (Ticker XMR)There were plenty of opportunities to buy on the pull-back and make a fairlyfast 10% with this strategy.
+And Monero is one of the more stable ones.
+Eventhe biggest cryptocurrency, Bitcoin, is EXTREMELY volatile.That is why these strategies work so well – because of the volatility ofcryptocurrencies.
+See the following chart:54It shows Bitcoins’ major corrections.
+A correction is more of fall then a merepull-back.
+When you look at the % declines in Column 4 each time, you will seewhat we mean by volatility.
+Let volatility be your friend.
+Buy on the dips.Only use this strategy if you are sure your chosen coin cannot go to zero –stick to the top ten with the biggest market capitalisations.If you are investing more speculatively because you want to take on more riskto make more potential returns then you need to know what you are doing.This is not recommended for total beginners.
+For example, you could buyothers Altcoins that aren’t in the top 10 or so.
+But remember the further downthe list you go the more risk you are taking that it could go to zero.If you are taking on more risk then don't keep buying into it because if it goesto zero all your money will be gone.
+Here you have to be clever.
+Try onlybuying when it has dropped AND you see it going up again.But remember, this strategy can only work on something you believe will notgo to zero.
+If you believe that Bitcoin or any other Altcoin can go to zero, donot employ this strategy.Never invest more than you are willing to lose entirely.
+People always saythat but with cryptocurrencies I suggest you heed this advice.559.
+How to keep yourcryptocurrencies safe andstore them“I threw away $7.6 Million of Bitcoin”- Campbell Simpson, who bought $25 worth of Bitcoin in 2010, put it on ahard drive but threw the hard drive away by mistake.To start investing in cryptocurrencies, the first thing you would need is to setup your digital wallet.
+In the cryptocurrency realm, the term used is “wallet”.The wallet can be likened to a bank account, which can be stored in differentdevices.The reason you need to do this is because there are countless stories of peoplelosing their cryptocurrencies.
+Safety is paramount here – you don’t want tobuild up a small fortune only to lose it all.A cryptocurrency wallet is a software program that functions to store yourprivate and public keys and interacts with various blockchains.
+It enables usersto send and receive cryptocurrencies as well as tracking their balance.There are many wallets out there for you to choose from, which is alldependent on your security needs as well as whether you wish to be an activetrader or a more passive buy-and-hold investor (we recommend you be amixture of the two, the so-called sweet spot).Once you have set up your wallet, you can then proceed to purchase andexchange the digital currency of your choice on many platforms.There are three main ways to store your coins:561.
+An exchange – this is the easiest way because you are trading yourmoney on there so that is where your money is kept.
+However,remember that this is an unregulated entity and this is where most ofthe hacks have taken place.
+So to date, exchanges have been the worstplace to keep your money.Make it even safer by using whatever extra security there is available.For example, Gemini asks not just for a password but asks if you want toenable ‘Two-Factor Authentication’ (2FA).
+Do it! It makes it even safer.Use ‘Google Authenticator’ where possible as opposed to text messagingin case someone clones your phone.Some of the exchanges actually hold your coins in cold storage for you,so theoretically that sounds a little bit safer than just keeping it on anexchange that doesn’t offer that.2.
+An online Wallet –a.k.a.
+Hot Wallet.
+This is more difficult to hack andtherefore safer than an exchange.
+It can still be hacked, however, since itis online.
+It also means more work because you have to open up severalwallets for each of the different coins.
+This is a pain but do it.
+Better tobe safe than sorry.There are two ways of doing this:1.
+Ones that store your public key and your private key online and2.
+Those that are set up online but then store your private keys on yourPC or mobile.1.
+Online or Cloud WalletSome examples of these are www.MyEtherWallet.com (which I use) andwww.blockchain.info (which I have not used).57Once you used www.myetherwallet.com there is no turning back.
+It isextremely simple to use, once you have used it a few times of course :--)2a.
+Desktop PC/Mac WalletDepending on how secure your desktop is or isn’t, this is accessible by hackersi.e.
+if your PC gets a virus then people can hack it to get your private keys.2b.
+Mobile WalletThe best-known mobile wallet is Jaxx.
+It syncs to your desktop and your phoneso that you can back up the private key.
+You can download it from the AppStore or Google Play.
+www.jaxx.io58Jaxx is great because it stores a lot of different coins all in one, like Bitcoin,Ethereum, Litecoin, Dash etc.3.
+An offline Wallet a.k.a.
+Cold storage or hard storage – this is whereyou store your private key on a special USB stick and so it is off grid.
+Onceoffline, it is almost impossible to hack.
+However, if the cleaner throws it out,you lose it for good.
+And yes, this has happened with people losing$millions in hard disks that were thrown out by mistake.The most popular ones are:Trezor: this was the first original hard wallet.Like most of these technologies, they are SIMPLE to use but noteasy.
+The first time it is like climbing a mountain – but every useafter that gets easier and easier.Before long you will be an absolute expert at it, showing off to allyour friends.
+If you didn’t die climbing the mountain the first timearound, that is.Ledger Nano S: one of the most popular.The Ledger seems to be very popular with people.
+It is almost thesame as the Trezor but looks cooler and is less expensive.
+Isuppose those are two good reasons when buying something,especially since it pretty much does the same thing as the Trezor.59I went for the Trezor because it was more expensive (reassuringlyexpensive and all that) but now that I have been in the space for awhile, if I would start again I would probably go for the LedgerNano.KeepKey:Keepkey aas a larger screen but I have not used it myselfWith all of the above, you have to figure out your number that you thinkit is safer to put on there i.e.
+any coins worth more than $25,000 in valueI use a cold storage wallet.4.
+Paper Wallet.
+This is where you literally write down your private keyon a piece of paper.
+This is, of course, much cheaper than buying one ofthe above.Make sure you keep a copy because once the paper is destroyed yourprivate key is gone and your coins will be gone.With all the above, follow these three Rules:1.
+Always back up your wallet, no matter which ones you use.2.
+Keep your software up to date if using software.603.
+Use whatever extra security there is available such as TwoFactor Authentication.
+Use Google Authenticator wherepossible as opposed to text messaging in case someone clonesyour phone.Summary: If you are planning to trade with your money (not invest),then leave it on the exchange, but if you are planning to hold it longer termthen it is worth keeping it safe in a wallet.If you have larger investments – you need to decide what that means – itis definitely worth putting into cold storage.Better safe than sorry!6110.
+How to track them onceyou have bought them?“If you can't measure it, you can't improve it.”- Management thinker Peter DruckerThere are several sites you can use to track your cryptocurrenciesonce you have bought them.The one that I use is www.cryptocompare.com.62You can either put in what you have bought manually or you cutand paste a code from the exchange in and it does itautomatically.
+This way it has the fluctuations of all the coins on adaily basis:This is a great way to track all your holdings even if they are onseveral exchanges or several wallets.
+You don’t want to be logginginto several exchanges every day – simply log into your ‘Portfolio’in CryptoCompare and everything you want is there.
+If you haveseveral positions of the same coin, it will amalgamate it and giveyou the average price.Another one is www.Cointracking.info.63This has the added benefit of having a tax add on.
+Again, you canenter coins directly from exchanges such as Bittrex, Coinbase,Kraken etc.6411.
+How to make money i.e.when to sell them“The only people who lose money are the ones that have tosell.”- Warren BuffettThis, of course, is the holy grail of trading – WHEN to get out of the trade.We are at the beginning of cryptocurrencies as a technology, so there could beenormous upside potential.
+We are looking at the maximum upside.
+If there isone thing I have learned it is that you have to allow your winners to run if youwant to make a lot of money.
+We are definitely holding for the long-termupside potential.In this bull market and in the Early Adopter stage of cryptocurrencies, I don’treally want to be selling.
+Why? Unlike other investments, Bitcoin and othercryptocurrencies are currencies and, so if they succeed, you won’t have to sellthem to gain value from them.
+You can use them directly, like you can theBritish Pound or any other form of currency.I am not even going to buy something with a stop loss to sell, as the volatility istoo huge at the moment.
+I am not really looking at selling at all, since we are ina bull market and if I get out I will miss out on the big moves that comes whenyou least expect it.However, to just buy and hold is a pretty lazy strategy too.
+You don’t want tobe up massively and then lose all the profits you made.
+So we have to considertaking some profits now and again in order to take money off the table androtate it back into other cryptos that might be at a lower price.
+For example, ifyou are in profit and have made over 100%, it is time to think about setting astop loss just below it to sell a part of your holdings and take some profit, say20-30%.65Another way to make money is a little more advanced and it means watching iton a daily basis if you see the price continuously going up and down i.e.
+goingsideways and not really hitting new highs, then you can start to trade withinthat ‘channel’ of high and low prices.
+So you are getting in near the bottomand out near the top – in effect trading – whilst always keeping your mainamount invested but start trading a smaller portion within that range.It is important to do this but most people do not do this.
+If you don’t do thisthen you don’t make any money while markets go sideways which is crazywhen you consider that markets might go sideways for many months, evenyears on occasions.
+If you don’t trade the range while waiting for the eventualupturn, you have missed out on that time … and profit.This is the optimal strategy but takes some experience.
+Not a lot of experiencebut a little.Make sure you talk to one of our traders who can guide you and point you inthe right direction.6612.
+Is it too late to get intocryptocurrencies – have Imissed the boat?Get in before the early adoption really starts.While it might be too late to make 10,000% on the larger coins, it is still veryearly on and new developments, coins and ideas are being generated almoston a daily basis.
+We are just at the start.
+There will no doubt be NEW cryptosthat will also have meteoric rises which you can get into.
+Some haven’t evenbeen invented yet.
+Anything could happen.
+Get involved.Whether you are in the know and can buy in time is another matter altogether,so do your research and get going.A whole generation is looking at Bitcoin as a store of value.
+The trust is in thedecentralised framework of the blockchain, which makes it so difficult to hackinto.
+Anyone under the age of 30 sees Bitcoin as making total sense.There are generally four phases of adoption according to Everett M.
+Rogers(1957)1.
+Innovators2.
+Early Adopters3.
+Late Majority4.
+Laggards67I believe that we are only now approaching the Early Adopter’s stage, so plentyof time to go.
+At the moment only thousands of people own any Bitcoin or afraction of a Bitcoin.
+This is akin to when only hundreds of thousands of peoplehad an iPhone.
+The real growth came when it started being adopted byeveryone and then it grew into the high millions.
+So get in before the earlyadoption really starts.Simon Dixon, CEO and co-founder of BNK to the Future, says that he has seenfive waves of cryptocurrencies:1.
+The first wave was Bitcoin, which had value because of it being a store ofvalue independent of a central bank.2.
+The second was the Altcoins where people were trying to copy Bitcoin.Some of them succeeded, like Litecoin and Dash.3.
+Then you had equities in companies, like the exchanges Kraken andCoinbase.4.
+Then there was Tokens or ‘ICOs’ as they are called, where companiescreate an asset class that trades on a secondary market.685.
+The final one is ‘Forks’ – where people have disagreements on howthings should be done and split off, for example Ethereum Classic splitoff from Ethereum and Bitcoin Cash and Bitcoin Gold split off fromBitcoin.Let us take a look at ICOs in the next chapter.6913.
+What is an ICO and howcan I profit from it?Let’s ICO like it’s 1999.* Important warning before we start: ICOs are a high-risk way of fundraising.Never invest anything you can’t completely afford to lose.
+Keep in mind thatdue to a lack of regulation, you will have difficulty getting back your lost moneyin case of any failures.What is an ICO?An ICO (Initial Coin Offering) is a fundraising method that trades future cryptocoins for cryptocurrencies which have an immediate, liquid value.
+Much as anIPO is an Initial Public Offering when a private company decides to go public onan Exchange, an ICO is an Initial Coin Offering.
+ICOs or Initial Coin Offerings arebasically crowd sales, the cryptocurrency version of crowdfunding.The only difference is that in an ICO the startup sells tokens on a blockchainwhile IPO is selling shares.
+It usually takes place before the launch of a coin’sblockchain, and involves the public sale, or crowdsale, of a percentage of thecoin’s initial supply.
+ICOs are sometimes referred to as ICPOs (Initial Public CoinOfferings) or ITOs (Initial Token Offerings) or even a ‘Crypto Crowdsale’.
+Thestartups themselves are called ‘Blockchain Startups’.Many of the companies performing ICOs aren’t offering coins, but rathertokens.
+And tokens and coins are very different things.
+Coins, like Bitcoin, are away of transferring monetary value.
+Tokens, on the other hand, can storecomplex and multifaceted data streams that can be used for endlessfunctionality.70Many of the new companies that are holding ICOs are not currencies and areinstead technology companies that will be built on the blockchain.
+So, theycan’t be judged solely on their monetary value, but rather they need to beevaluated based on their business model and potential solution.What is the so-called ‘white paper’ within an ICO?Every ICO should have a white paper or manifesto.
+For example, the originalBitcoin white paper is at the back of this book (see appendices).
+This detailshow the technology is intended to work, how the tokens are designed within it,and how users could acquire and use the tokens.
+A white paper shows whetherthe founders have thought through the project, what problem it solves andhow they mean to solve it.
+Crucially, it must also show how the tokens they aregiving out will be used to solve the problem, since you will own some inexchange for investing.How does an ICO work?1.
+A startup advertises that it will be selling the initial coin supply of their newcryptocurrency.2.
+Investors read the ‘white paper’ of the startup and on that basis exchangeBitcoin or Ether for these new coins.3.
+The startup can then exchange your Bitcoin or Ether into normal fiatcurrency to spend on building out the technology, pay for costs etc.4.
+If the project is a success, ie it launches and starts being adopted, then thevalue of the new currency rises and investors of the ICO make a profit.Why do companies do them?ICO provides them a simpler and quicker way to do fund-raising for newblockchain projects than a traditional method.
+It is also border-free that it canconnect to every investor in the world.Usually, a percentage of the tokens is sold to ICO participants and a percentagekept for the company’s needs (private investors, etc.
+Terms differ from one ICOto another).71Bancor raised $150 million in under 3 hours.
+BAT raised $34 million in literallyunder a minute.
+The ICOfor Status was in such a high demand that it jammedthe Ethereum network for an entire day.
+The highest value raised by an ICO isTezos, which raised a record breaking $232 million in less than a month!How do you make money in an ICO?Most investors speculate that the startup will be successful enough to launchon an exchange, so that they can sell their tokens or coins as soon as possible,at profit.
+They don’t necessarily believe in the company itself, or they mightbelieve in the idea, but are not willing to risk staying in for the long term if theycan make 100-1000% in the short term.What does the new token/coin represent?The coin/token issued in an ICO has three roles, depending on the goals of thecompany:72 It represents the company’s product – the coins can be used as a medium ofexchange for a certain amount of product or services.
+It could also be usedfor trading in a project. It represents the right of profit sharing – like normal shares, the coins couldbe thought of a certain percent of a company’s shares you own and profitscould be shared if the company wishes to do so. It represents corporate bonds – the coin is like a loan.
+The coin owner isable to receive interest based on the pre-set rate.Those that believe in the company will hold on for the long term.
+If the startupis successful, fortunes will be made.
+Even if you invest just £500-5,000.
+This isunprecedented.Are there drawbacks to investing in ICOs?Yes, there are many.The idea for the startup is written on a ‘white paper’ – often even without anyproof of work – and people invest on the basis of what they read in the whitepaper.
+Since investors are pouring in their money in the hope of becoming richthrough ICOs, some of these ICO startups are taking advantage of thissituation.
+They collect the money but don’t actually get to the work of creatingthe product, yet alone actually turning the business into a profit-makingenterprise.
+Then they just disappear into the ether.Mycelium ICO was a particularly bad example of this.
+Its team members justdisappeared after raising the money, and later it was reported they used thefunds to pay for their own vacation.This is why there is so much talk of regulation and self-regulation.The ones that are legitimate and really do want to create a product may havethe problem of insufficient technical knowledge or support.
+They may beunderqualified and lack the experience of building up a blockchain business.73This is not the only way investors have lost money.
+$7 millions were stolen asCoinDash’s ICO started.
+Right before the start of the token sale, their websitewas hacked and the ICO wallet address was changed to the hacker’s address.How do I go about investing in an ICO?1.
+Research, research, researchUnlike an IPO where the company is normally successful and profitable, an ICOis a startup and needs the funds to get from the white paper theory to developthe actual product or service.
+So you must do your research by trawling theInternet and asking all your questions on ICO, cryptocurrencies and Bitcoinforums.
+Remember, you could lose 100% of your investment.1.
+Can the team deliver based on its experience?Read their white paper and go straight to the founding members and the team.Look at their profiles on LinkedIn.
+See how much history they have in the space– we are looking for people who can deliver on their promise.
+If not, don’teven bother continuing.
+Find out if the team has any crypto experience and –more importantly – which projects, or ICOs, they were involved with and theimpact they had.
+If you are satisfied that they can deliver, continue yourresearch.Take a short cut and go to BitcoinTalk.org, because you can see what theexperienced investors are saying.74Watch out for the words like ‘scam’ and how the community responds.
+Givemore weight to the answers of experienced investors.
+Investor’s concerns willbe answered (or may be unanswered) in this thread.Also, it is a bad sign when the developers avoid answering certain questions oraren’t collaborating.
+Sending them a personal message to see how responsivethey are is also a good idea.2.
+Does the idea solve a problem/is the idea needed?Is there any validity in their idea? Is it solving a problem? Is there a potentialhungry market for this? Does it have a chance of succeeding? What does yourgut instinct and experience tell you? After reading it, you should be able toanswer a simple question – what kind of value does this project bring to ourworld?Next, is it a totally new concept or are they developing something thatsomeone else already has developed.
+Don’t get duped into a new Amazon forthis new market or an Uber of that new market.
+It can’t just be a ‘me-too’product – don’t invest unless you believe that this company can do it muchbetter.753.
+What is the Token for?ICOs mean the creation of a new dedicated token for the project.
+One of themost important questions each project needs to answer is what is the tokenfor? Why isn’t Bitcoin or Ethereum enough to serve as the project’s token?4.
+How much money is being collected?Some of the earlier ICOs were unlimited.
+An open cap allows investors to sendunlimited funding to the project’s ICO wallet.
+The more coins are circulating,the less unique your tokens become for trading afterwards – through lessdemand.5.
+What are they using the money for?Next, what are they using the money for? What percentage will go to thedevelopment budget, the marketing budget, and other essential allocations.
+Inthe past, many ICOs have not given this level of transparency but in the enddon’t you want to know where your money is going to be allocated to and ifthis makes sense to you?6.
+Token valueNext, look at the Token value – is the current value worth it? Do you think ithas a chance of growing in value to make you enough profits? Do they havetoo many tokens on offer which will saturate the market? Are there really anyincentives to use their tokens – because in the end, even if it is a great idea,you will only make money if the tokens you have will increase in value overtime? Etc.If you can answer these questions as best you can, then you have done thework required to lower the risk of investing.
+Remember that your risk is 100%and with several of them, this is likely to happen.7.
+Token distribution – when and how76Greed can be defined by a high token distribution to the team members, let’ssay, more than 50% of the tokens is suspicious.
+A good project will link itstoken distribution to the roadmap,because each phase or milestone of theproject requires a certain amount of funding.Watch for the token distribution stage.
+Some projects just release their tokenshours after the ICO has ended.
+Some projects need to develop a beta versionbefore sending out the tokens.
+This is good to know but doesn’t necessarilyhave to impact your investment decision2.
+Exchange your fiat money for cryptocurrencyYou will need cryptocurrency, usually Bitcoin or Ethereum, to participate in anICO.
+Remember the startup will then exchange your investment money for fiatmoney to pay for its development, costs etc.3.
+Invest in ICOSimply send the cryptocurrency the startup asks for to the address they askyou to send it to.
+Please note that most startups won’t accept Bitcoin or Etherfrom an exchange.
+Several exchanges won’t send Bitcoin or Ether to an ICOstartup.
+Normally it is sent from an online wallet e.g.
+www.myetherwallet.com4.
+Follow the development of the startupMany people just leave their money in the startup and pray it all works out.
+Iam not one of those people.
+I try to get involved and see if I can help.
+After all,this is my money I have invested and I want to ensure that it works for me.
+Ieven spent six months in a startup manning the phones.
+Tell everyone about it,be a walking, talking advertisement for them.
+You just never know the impactthis could have.Remember, investment in cryptocurrency isn’t something to be taken lightly.It’s extremely risky, extremely speculative, and extremely early stage still atthis point in time.I have now invested in over 30 ICOs.
+I am spreading my risk because I don’tknow which of them will be successful, if any.
+This is pure speculation.
+But I77also swore that I would not miss out on what so far looks like a once in ageneration opportunity.I attend as many conferences as I can so I can talk to the team.
+I read thewhitepaper.
+I might send them an email to see how they react.I have even managed to get in on a pre-sale where it is possible to getdiscounts.
+They were asking for a minimum of 100 ETH but when I remindedthem that we had met at the conference and of the conversation we had, theycame down to 50 and then finally 25 ETH.Morale of the story?If you don’t ask you don’t get.And attend conferences to meet the team.
+There’s only so much you can gleanfrom a Whitepaper.7814.
+Asset allocation – howmuch to invest incryptocurrencies?Overall, there is a school of thought that says that investing in ICOs is notinvesting at all – it is pure speculation and it is best to wait until after the ICO ieafter the coins have gone public.
+I certainly agree with the first part of thatstatement – it is speculation to invest in a brand new startup that hasn’t evenbuilt its product at the start of a new technology revolution.
+I also agree thatyou would be better of looking at the ones that have gone public as they havemore chance of not being scams.However, I don’t believe that is all we should be doing.
+I believe that in termsof asset allocation a tiny amount of your portfolio should be invested on ICOsbecause the returns could be gigantic.
+So what’s the ideal percentage? Thiswill, of course, depend on how old you are, how much risk you are willing totake and how aggressive/conservative you want to be.
+However, for me, it isthe following:In terms of asset allocation I am looking at putting 5% of my capital into ICOs.The reason is that we have no idea:1.
+Where this industry is heading.2.
+Which ICOs are going to be successful.Therefore investing in ICOs is EXTREMELY speculative.However.
+I am still open to putting in a small amount every month, say £500+.I am looking to spread my risk among a minimum of 20 different ICOs.
+I will putmore in if I have met the people and get a good feeling about it, or the whitepaper makes a lot of sense and it is really solving a problem and has the team79to build the required solution.
+So if I bought into 20 of them and they all failedbut one of them exploded, then I would risk £10,000 to make £50,000 or evenmore.For example, I might invest:0.5% of my capital into an ICO where I am not sure but want to be in because Idon’t want to miss out.1-1.5% of my capital into an ICO where I feel good about it.2.5-5% of my capital into an ICO where I really have a very good feel about theproblem, solution and the team.The most I have invested into one ICO is 12.5% of my crypto capital.
+This wasat the beginning of my journey and it was, in hindsight, too much in terms ofasset allocation.Let’s break this down:25% = £2,500 into the top 2 Ethereum/Bitcoin.40% = £4,000 into established coins e.g.
+top 20.20% = £2,000 into up and coming coins ie outside the top 20 but coming upfast.10% = £1,000 into new coins that have gone public onto an exchange.5% = £500 into ICOs.100% TotalThis is just a guideline on what I am doing – you need to come up with yourown system that works for you.Remember that this 100% is the 100% of the total of my pot allocated tocryptocurrencies.
+Since cryptocurrencies are speculative, this ‘100%’shouldn’t be more than 10% of your entire portfolio.
+So if you lost the entire100% then you would have only lost 10% of your portfolio.
+Again, none of usknow what the future is of cryptocurrencies (see next chapters).
+Buyerbeware!8015.
+Are there any drawbacksto investing incryptocurrencies?“Where there’s blockchain there’s also bullshit”Overheard at a Blockchain ConferenceThere are several drawbacks to cryptocurrencies, especially with ICOs.
+This is atotally new and unregulated industry, meaning if you are hacked and someonetakes your Bitcoins, you will not be compensated.
+Also, new launches of coinsare increasing and no one knows which ones will vanish and which ones arehere to stay.
+Due to this uncertainty, price swings of 30%+ in a single day up ordown are not uncommon.
+Therefore, at the moment, only invest money youare willing to lose.Overall, there are four disadvantages of cryptocurrencies.
+There is a lack ofunderstanding towards this digital currency.
+Plus, there’s minimum protectionand guarantee when using is.
+Because it is mostly operating online, it is boundto experience all kinds of technical flaws and it is still developing.1.
+Lack of understanding about cryptocurrencyIn most cases, people are still unaware of the digital currency world and thepotential it holds.
+This is similar to when the usage of credit card was firstannounced and the reception towards it was fairly similar to cryptocurrency.Back then, people wouldn’t even think that paying for things using a mere cardwas possible, yet alone a whole new digital currency.Because it is different, and it doesn’t involve cash directly, people shy awayfrom it and constantly doubt its effectiveness.
+Additionally, it involves onlineaccess to make it work.
+The idea of having to pay for things or transfer moneyonline is convenient to some and is catching on but some people are stillsceptical about it.81In order to make cryptocurrency acceptable around us, the people need to beeducated about it to be able to include it in their daily lives.
+But the effort tolearn a whole new world of currency requires a lot of time and energy.
+Mostwould think it is not worth their time because it is not commonly knownanyway.Even though some businesses are accepting Bitcoins, the list is significantlysmall compared to traditional currencies.
+This is probably due to the lack ofknowledge.
+Both businesses and customers need to be educated.
+Imaginehaving to teach your customers a new way of paying for something.
+This willtake a longer time and effort.2.
+Lack of consumer protection and guaranteeIn the case of traditional currency, Central Banks govern the authority of anation’s money.
+No higher authority can suddenly decide that they no longerwant to use their country’s currency to trade without protest and rejection.There are procedures to follow, documents to file, approvals and many otherprotocols to follow.However, that is not the case with our digital currency.
+There is no CentralBank who governs Bitcoin, which means no one can guarantee its minimumvaluation.The value of Bitcoin, for example, will fall tremendously should a major groupof merchants decided to just ‘discard’ Bitcoins and leave the system.
+This willinevitably leave other users who have invested thousands of dollars intoBitcoins in a major loss position.
+There is no one to contact to file these losses,or rules to help compensate it.Another example is that if you get charged but didn’t receive the online movietickets or flight tickets, you can always call bank service provider, or go to thephysical bank instead and declare your case.
+If you pay via Visa and can proveyou didn’t get your service, the credit card company will give you your moneyback.
+I remember paying £2,000 for a course that was not delivered – the guyjust ran away with our money.
+Visa compensated us fully because we usedtheir credit card.
+I was actually pretty impressed at the time … and horrified, asI can imagine a lot of people putting in false claims.82That is not how it works with cryptocurrency.
+First of all, this currency does nothave a bank to negotiate and help you.
+There is no number that you could calland ask to speak to someone or email address.So, if you bought your goods using Bitcoins, for example, and the merchantdidn’t send the items you purchased, there is nothing you can do to reversethe transaction or refund.
+You can’t complain to the police or any relatingauthority for that matter.Cryptocurrency transactions are typically not reversible.
+Once you have sentthe money to an address you can’t get it back.
+So make sure you double checkthat you are sending coins to the right address and in the right currency.Therefore, the very appeal of the decentralised system of Bitcoin is a doubleedged sword.3.
+Technical shortcomingsWhen online banking made its way into our lives, there was always the risk of asudden server failure, power shortage, and even hardware lags.Similar to data corruptions or virus infections, if your hard drive crashes andyour wallet file is corrupted your Bitcoin is lost forever.
+There is nothing youcan you do restore it and those ‘coins’ will be ‘orphaned’ in the system.So remember, always make a back-up to prevent this from happening.4.
+The industry is still developingWhen things are still developing, they are prone to many risks.
+There are somany incomplete features that can be improved but it takes a longer time tofinalise them, especially if they have no physical form.With traditional currency, despite the method of payments being performedonline, and without us actually seeing the physical money being transferredfrom one account to another, we still end up holding the physical cash at theend of the day.
+We can use the physical cash to buy things from the stores,physically and online.Since cryptocurrency does not have any physical form i.e.
+we will never beholding the physical cash, its usage is obviously restricted.83In the end it more often than not – and I hope this changes soon – but Bitcoinneeds to be converted to traditional currency to enjoy its worth.8416.
+The future ofcryptocurrencyLunatic fringe or serious business?I do think cryptocurrency is here to stay.
+To suggest otherwise would be likesaying the Internet was a fad when it first started.
+Of course, hindsight is agreat thing.Which cryptos are here to stay, however, is almost impossible to guess.These digital currencies have been said to be able to capture the world ofonline finance.
+With the blockchain technology behind it, the future ofcryptocurrency is showing enormous potential.Although the mechanism behind Ether prevents it from being used as a directpayment method, this cryptocurrency seems to have a bright future ahead.This is all thanks to its smart contract concepts.On the other hand, cryptocurrencies solving the problem of privacy are startingto gain more prominent favour amongst users.The growing level of acceptance of Bitcoin is clearly bringing this alternativecurrency to the mainstream.
+Some companies are genuinely consideringinvesting in this currency, further fuelling its journey to the world of financialcurrency.Consider this:Ten times more money was raised for ICOs than Venture Capital in 2017.More than 50 Funds concentrating on cryptocurrencies have sprung up.All major VS are now on board and investing before ICOs.Countries such as Japan have even formally accepted it as a currency.85However, we need to differentiate between cryptocurrencies and theblockchain.
+Cryptocurrencies have entered a speculation phase where peoplewant to make 1000% within days of buying a coin.
+But that means we aredeparting from the fundamental assumption of what a cryptocurrencyoriginally is – a scarce digital commodity where the value derives from thatscarcity.Simply put, if more than 100 new sources of this digital commodity have beenlaunched since the summer of 2017, then the entire concept of scarcity, andtherefore value, begins to erode.
+In fact, many of these new cryptocurrencieswill need to fail in order to maintain the viability of the best-known currencies,Bitcoin and Ether.Most of the recent ICOs are based on the ERC-20 Ethereum token, and theprimary purchasing mechanism for new cryptocurrencies has been Ether, thecurrency of the Ethereum network.Therefore, an investor often needs to buy Ether in order to buy into any of thenew ICOs.But the crypto bubble of lesser-known currencies will have to pop at somestage, and some people are going to get burned.
+Despite this, the coretechnology behind it all – the blockchain – will provide value as a hiddeninfrastructure underlying future applications.A small number of currencies – likely Bitcoin and Ethereum – and utility tokenswhere genuine value is created, will remain viable over the long term –although at what price no one knows.It is interesting to note that the Enterprise Ethereum Alliance is gainingtraction.
+The Enterprise Ethereum Alliance (EEA), the world’s largest opensource blockchain initiative, is an industry-supported consortium that aims tobring Ethereum to an enterprise-grade level by supporting, promoting, andbuilding Ethereum-based technologies.
+The Alliance has recently announcedthe addition of 48 new members, including Sberbank, Russia’s largest bank,and Hewlett Packard Enterprise (HPE).86Governments are going to be embracing the power of the blockchain.Microsoft Opens Blockchain Door to the government.
+Companies likeMicrosoft are working with government organisations: “Blockchain makes itmuch harder for fraud and waste to exist, makes it much more visible if it doesexist and potentially gets rid of a lot of layers of bureaucracy that are designedsimply to ensure that waste and fraud [don't] exist." MicrosoftAre we going to witness a new norm of currency through cryptocurrency oneday? Researchers concluded that it is still too early to predict that it would, butone thing is for sure that this currency is slowly making its way in the world.The most targeted group of all would be the technologically savvy individualsand most of us are already part of this group.
+Less than 50% of our time isspent online and this % is growing.One day, we might even consider using cryptocurrency as our standardcurrency for a more universal transaction.8717.
+CryptocurrencyFrequently AskedQuestions (FAQs)The New Liquid Gold?Why is Bitcoin called ‘Liquid Gold’?Money in itself does not have any intrinsic value – it is only because we believethat it has value that it is worth anything.
+Money is just a tracking system – wetrack what we own and what we owe.
+This is called a ledger.
+Whatever form ofmoney exists, we give it value because of its utility as a ledger (or trackingsystem of who owes what).Gold has been the Standard for over 5,000 years.
+Then came coins in differentmetals and finally paper money.
+All paper money was backed up by real Gold,so real Gold equivalent to the amount of money on the paper had to be storedin the bank.
+That means if someone were to go the bank and ask to exchangetheir money for Gold, in theory they would have received it.
+All this haschanged.
+After Nixon abandoned the ‘Gold Standard’ in 1971, the US Dollarwas cut loose from Gold.
+Other countries followed suit.Governments were now free to print as much of it as they wanted, as it didn’tneed to be backed up by Gold.
+Banks started lending out 5-10 times theamount of money that savers put into their bank accounts.
+All this causedmore and more money to be placed in circulation.
+This is called ‘fiat’ money.Unfortunately the more fiat money is being printed ie to fund a war, pay backdebt or pump into the economy to stave off a recession, the less value it has.Meaning that the money in your pocket is worth less and less every single year.88So really it would make more sense to use something that holds its value, likeGold for example, and not fiat currency.
+Gold only has value because it isscarce – it is becoming increasingly difficult to mine and supply is running out.Until Bitcoin and the blockchain, Gold had made for the best form of a ledgerdevised.
+The problem is that Gold cannot easily be used for daily buying andselling because it is difficult to store, divide up and send.This is where Bitcoin and other cryptocurrencies come in, because they areeasy to store, divide up and send.The 5 characteristics of money1.Scarcity2.Divisible3.Transportable4.Durable5.Recognisable5 characteristicsof moneyFiat money Gold Bitcoin andcryptocurrenciesScarcity NO.More and morecan get printedevery day andthe value isfalling.YES.
+YES.Bitcoin yes,because therewill only be 21million.Divisible YES.
+NO.You can’t payfor a cup of teawith Gold.YES.One ‘Satoshi’ isone hundredmillionth of aBitcoin.Transportable YES.Using electronicmoney systemsthis is possible,NO.You can’t easilysend Goldoverseas inYES.You can send itlike a digital file,to another wallet89but it isexpensive andslow.bulk.
+within a fewminutes, for afraction of theprice.Durable SOME.Coins yes butnot notes.
+Newones have to beprinted everyyear.YES.It is extremelydurable.YES.You cannotdestroy a Bitcoin.Recognisable YES – ifeveryone in thatcountryrecognises it,butNO – if youare trying to payin your owncountry’scurrency, theneach countrywill have its owncurrency so youhave toexchange it,meaning costsand time.They are alsocopied andcounterfeitedand that is whyevery few yearsnew hologramsand materialsare added.YES.Some countriesactually preferthe relativesafety of Gold.NO – it is notaccepted as amethod ofpayment inmost places.It is not easy tocopy Gold buthow do youreally knowthat the Goldyou arereceiving isreal?YES.If you have aBitcoin walletthen that’s allyou are allowedto put in it.NO – the majorityof shops do notyet acceptBitcoin, but thelist is growingevery day.You cannot copya Bitcoin andcounterfeit it.90This means that Bitcoin, like Gold, is an inflation-proof store of value.
+However,unlike Gold, it is ALSO a day-to-day transactable currency as well, as it is easilydivisible to any desired amount.
+You can buy biscuits, pay for your utility billsor buy a Tesla car (which you have been able to do using Bitcoin since 2013).All that needs to happen now is that Bitcoin needs to gain awareness so thatpeople can use it to buy and sell on a daily basis.
+This is going to take time.Remember when credit cards first came out – it took time for people to usethem.
+Or using the automatic scanning systems at WH Smith or Tesco’s?People don’t like change, unless they can see the benefits clearly and it ischeaper.
+Bitcoin fits the bill.What is Bitcoin Cash and Bitcoin Gold?In August 2017 a group of miners split off from Bitcoin to create Bitcoin Cash,in the way Ethereum Classic was created by a group splitting off fromEthereum in July 2015.In October 2017 a group of miners did the same to create Bitcoin Gold.This is what is called a Hard Fork.
+A group of miners ‘forked’ from the mainBitcoin blockchain by switching to a new version of software with greatertransaction capacity.This fork did not affect Bitcoin balances, but millions of Bitcoin users were alsogiven Bitcoin Cash Tokens and in October Bitcoin Gold Tokens as well.Is there a difference between a Coin and a Token and if so, what is it?The term “ICO” is now used for any new Coin or Token that comes on themarket.
+However, this is not correct.
+Coins and Tokens are two very differentthings.
+A Coin (or Altcoin) is a variation of Bitcoin's open source code.
+(Litecoinor Dogecoin are examples of this).
+A Token on the other hand is a secondaryasset for Decentralised Application (DApps) within a blockchain ecosystem –91usually Ethereum.
+Each DApp uses tokens to run.
+(Golem is a DecentralisedApplication within the Ethereum blockchain system.
+Its secondary asset is aToken called GNT.
+The Gnosis Token is GNO, etc.).Confused? Maybe this will help.
+Bitcoin is a decentralised – not centralised –distributed ledger that performs best as digital money.
+Bitcoin’s consensusprocess is revolutionary but you can’t build much with it.
+Ethereum, on theother hand, can do what Bitcoin does … and more.
+It can be digital money too,but unlike Bitcoin, Ethereum is highly programmable — it’s designed toaccommodate the construction of complex applications.
+This is where theTokens come in.
+A token can do many things while a coin can only do onething.
+Coins really only have one utility — to act as simple stores of value withno other functionality.
+Tokens are a completely different breed all together.They can store complex, multi-faceted levels of value.
+Ethereum tokens aregenerated by a Smart Contract System (SCS), are highly programmable andhave multi-functionality because of it.
+Through their functionality they becomemuch more than just a coin – they become “Tokens”...Bitcoin produces “coins.” Ethereum generates “tokens.” An “ICO” is aBitcoin/Altcoin thing.
+A “Token Launch” is an Ethereum thing.
+People aremixing up the two and until there is more regulation, it will continue to bemixed up.92Appendix:Bitcoin: A Peer-to-Peer Electronic Cash SystemSatoshi Nakamotosatoshin@gmx.comwww.bitcoin.orgAbstract.
+A purely peer-to-peer version of electronic cash would allow online payments to be sentdirectly from one party to another without going through a financial institution.
+Digital signaturesprovide part of the solution, but the main benefits are lost if a trusted third party is still required toprevent double-spending.
+We propose a solution to the double-spending problem using a peer-to-peernetwork.
+The network timestamps transactions by hashing them into an ongoing chain of hash-basedproof-of-work, forming a record that cannot be changed without redoing the proof-of-work.
+Thelongest chain not only serves as proof of the sequence of events witnessed, but proof that it came fromthe largest pool of CPU power.
+As long as a majority of CPU power is controlled by nodes that arenot cooperating to attack the network, they'll generate the longest chain and outpace attackers.
+Thenetwork itself requires minimal structure.
+Messages are broadcast on a best effort basis, and nodes canleave and rejoin the network at will, accepting the longest proof-of-work chain as proof of whathappened while they were gone.1.
+IntroductionCommerce on the Internet has come to rely almost exclusively on financial institutions serving astrusted third parties to process electronic payments.
+While the system works well enough for mosttransactions, it still suffers from the inherent weaknesses of the trust based model.
+Completely nonreversible transactions are not really possible, since financial institutions cannot avoid mediatingdisputes.
+The cost of mediation increases transaction costs, limiting the minimum practical transactionsize and cutting off the possibility for small casual transactions, and there is a broader cost in the lossof ability to make non-reversible payments for non-reversible services.
+With the possibility ofreversal, the need for trust spreads.
+Merchants must be wary of their customers, hassling them formore information than they would otherwise need.
+A certain percentage of fraud is accepted asunavoidable.
+These costs and payment uncertainties can be avoided in person by using physicalcurrency, but no mechanism exists to make payments over a communications channel without atrusted party.What is needed is an electronic payment system based on cryptographic proof instead of trust,allowing any two willing parties to transact directly with each other without the need for a trustedthird party.
+Transactions that are computationally impractical to reverse would protect sellers fromfraud, and routine escrow mechanisms could easily be implemented to protect buyers.
+In this paper,we propose a solution to the double-spending problem using a peer-to-peer distributed timestampserver to generate computational proof of the chronological order of transactions.
+The system issecure as long as honest nodes collectively control more CPU power than any cooperating group ofattacker nodes.2.
+TransactionsWe define an electronic coin as a chain of digital signatures.
+Each owner transfers the coin to the nextby digitally signing a hash of the previous transaction and the public key of the next owner and addingthese to the end of the coin.
+A payee can verify the signatures to verify the chain of ownership.93The problem of course is the payee can't verify that one of the owners did not double-spend the coin.A common solution is to introduce a trusted central authority, or mint, that checks every transactionfor double spending.
+After each transaction, the coin must be returned to the mint to issue a new coin,and only coins issued directly from the mint are trusted not to be double-spent.
+The problem with thissolution is that the fate of the entire money system depends on the company running the mint, withevery transaction having to go through them, just like a bank.We need a way for the payee to know that the previous owners did not sign any earlier transactions.For our purposes, the earliest transaction is the one that counts, so we don't care about later attemptsto double-spend.
+The only way to confirm the absence of a transaction is to be aware of alltransactions.
+In the mint based model, the mint was aware of all transactions and decided whicharrived first.
+To accomplish this without a trusted party, transactions must be publicly announced [1],and we need a system for participants to agree on a single history of the order in which they werereceived.
+The payee needs proof that at the time of each transaction, the majority of nodes agreed itwas the first received.3.
+Timestamp ServerThe solution we propose begins with a timestamp server.
+A timestamp server works by taking a hashof a block of items to be timestamped and widely publishing the hash, such as in a newspaper orUsenet post [2-5].
+The timestamp proves that the data must have existed at the time, obviously, inorder to get into the hash.
+Each timestamp includes the previous timestamp in its hash, forming achain, with each additional timestamp reinforcing the ones before it.4.
+Proof-of-Work94To implement a distributed timestamp server on a peer-to-peer basis, we will need to use a proof ofwork system similar to Adam Back's Hashcash [6], rather than newspaper or Usenet posts.
+The proofof-work involves scanning for a value that when hashed, such as with SHA-256, the hash begins withnumber of zero bits.
+The average work required is exponential in the number of zero bits required andcan be verified by executing a single hash.For our timestamp network, we implement the proof-of-work by incrementing a nonce in the blockuntil a value is found that gives the block's hash the required zero bits.
+Once the CPU effort has beenexpended to make it satisfy the proof-of-work, the block cannot be changed without redoing the work.As later blocks are chained after it, the work to change the block would include redoing all the blocksafter it.The proof-of-work also solves the problem of determining representation in majority decision making.If the majority were based on one-IP-address-one-vote, it could be subverted by anyone able toallocate many IPs.
+Proof-of-work is essentially one-CPU-one-vote.
+The majority decision isrepresented by the longest chain, which has the greatest proof-of-work effort invested in it.
+If amajority of CPU power is controlled by honest nodes, the honest chain will grow the fastest andoutpace any competing chains.
+To modify a past block, an attacker would have to redo the proof-ofwork of the block and all blocks after it and then catch up with and surpass the work of the honestnodes.
+We will show later that the probability of a slower attacker catching up diminishesexponentially as subsequent blocks are added.To compensate for increasing hardware speed and varying interest in running nodes over time,the proof-of-work difficulty is determined by a moving average targeting an average number ofblocks per hour.
+If they're generated too fast, the difficulty increases.5.
+NetworkThe steps to run the network are as follows:1) New transactions are broadcast to all nodes.2) Each node collects new transactions into a block.3) Each node works on finding a difficult proof-of-work for its block.4) When a node finds a proof-of-work, it broadcasts the block to all nodes.5) Nodes accept the block only if all transactions in it are valid and not already spent.6) Nodes express their acceptance of the block by working on creating the next block in thechain, using the hash of the accepted block as the previous hash.Nodes always consider the longest chain to be the correct one and will keep working on extending it.If two nodes broadcast different versions of the next block simultaneously, some nodes may receiveone or the other first.
+In that case, they work on the first one they received, but save the other branchin case it becomes longer.
+The tie will be broken when the next proof-of-work is found and onebranch becomes longer; the nodes that were working on the other branch will then switch to thelonger one.95New transaction broadcasts do not necessarily need to reach all nodes.
+As long as they reach manynodes, they will get into a block before long.
+Block broadcasts are also tolerant of dropped messages.If a node does not receive a block, it will request it when it receives the next block and realizes itmissed one.6.
+IncentiveBy convention, the first transaction in a block is a special transaction that starts a new coin owned bythe creator of the block.
+This adds an incentive for nodes to support the network, and provides a wayto initially distribute coins into circulation, since there is no central authority to issue them.
+Thesteady addition of a constant of amount of new coins is analogous to gold miners expending resourcesto add gold to circulation.
+In our case, it is CPU time and electricity that is expended.The incentive can also be funded with transaction fees.
+If the output value of a transaction is less thanits input value, the difference is a transaction fee that is added to the incentive value of the blockcontaining the transaction.
+Once a predetermined number of coins have entered circulation, theincentive can transition entirely to transaction fees and be completely inflation free.The incentive may help encourage nodes to stay honest.
+If a greedy attacker is able to assemble moreCPU power than all the honest nodes, he would have to choose between using it to defraud people bystealing back his payments, or using it to generate new coins.
+He ought to find it more profitable toplay by the rules, such rules that favour him with more new coins than everyone else combined, thanto undermine the system and the validity of his own wealth.7.
+Reclaiming Disk SpaceOnce the latest transaction in a coin is buried under enough blocks, the spent transactions before it canbe discarded to save disk space.
+To facilitate this without breaking the block's hash, transactions arehashed in a Merkle Tree [7][2][5], with only the root included in the block's hash.
+Old blocks can thenbe compacted by stubbing off branches of the tree.
+The interior hashes do not need to be stored.A block header with no transactions would be about 80 bytes.
+If we suppose blocks are generatedevery 10 minutes, 80 bytes * 6 * 24 * 365 = 4.2MB per year.
+With computer systems typically sellingwith 2GB of RAM as of 2008, and Moore's Law predicting current growth of 1.2GB per year, storageshould not be a problem even if the block headers must be kept in memory.8.
+Simplified Payment Verification96It is possible to verify payments without running a full network node.
+A user only needs to keep acopy of the block headers of the longest proof-of-work chain, which he can get by querying networknodes until he's convinced he has the longest chain, and obtain the Merkle branch linking thetransaction to the block it's timestamped in.
+He can't check the transaction for himself, but by linkingit to a place in the chain, he can see that a network node has accepted it, and blocks added after itfurther confirm the network has accepted it.As such, the verification is reliable as long as honest nodes control the network, but is morevulnerable if the network is overpowered by an attacker.
+While network nodes can verify transactionsfor themselves, the simplified method can be fooled by an attacker's fabricated transactions for as longas the attacker can continue to overpower the network.
+One strategy to protect against this would be toaccept alerts from network nodes when they detect an invalid block, prompting the user's software todownload the full block and alerted transactions to confirm the inconsistency.
+Businesses that receivefrequent payments will probably still want to run their own nodes for more independent security andquicker verification.9.
+Combining and Splitting ValueAlthough it would be possible to handle coins individually, it would be unwieldy to make a separatetransaction for every cent in a transfer.
+To allow value to be split and combined, transactions containmultiple inputs and outputs.
+Normally there will be either a single input from a larger previoustransaction or multiple inputs combining smaller amounts, and at most two outputs: one for thepayment, and one returning the change, if any, back to the sender.97It should be noted that fan-out, where a transaction depends on several transactions, and thosetransactions depend on many more, is not a problem here.
+There is never the need to extract acomplete standalone copy of a transaction's history.10.PrivacyThe traditional banking model achieves a level of privacy by limiting access to information to theparties involved and the trusted third party.
+The necessity to announce all transactions publiclyprecludes this method, but privacy can still be maintained by breaking the flow of information inanother place: by keeping public keys anonymous.
+The public can see that someone is sending anamount to someone else, but without information linking the transaction to anyone.
+This is similar tothe level of information released by stock exchanges, where the time and size of individual trades, the"tape", is made public, but without telling who the parties were.As an additional firewall, a new key pair should be used for each transaction to keep them from beinglinked to a common owner.
+Some linking is still unavoidable with multi-input transactions, whichnecessarily reveal that their inputs were owned by the same owner.
+The risk is that if the owner of akey is revealed, linking could reveal other transactions that belonged to the same owner.11.CalculationsWe consider the scenario of an attacker trying to generate an alternate chain faster than the honestchain.
+Even if this is accomplished, it does not throw the system open to arbitrary changes, such ascreating value out of thin air or taking money that never belonged to the attacker.
+Nodes are not goingto accept an invalid transaction as payment, and honest nodes will never accept a block containingthem.
+An attacker can only try to change one of his own transactions to take back money he recentlyspent.The race between the honest chain and an attacker chain can be characterized as a Binomial RandomWalk.
+The success event is the honest chain being extended by one block, increasing its lead by +1,and the failure event is the attacker's chain being extended by one block, reducing the gap by -1.The probability of an attacker catching up from a given deficit is analogous to a Gambler's Ruinproblem.
+Suppose a gambler with unlimited credit starts at a deficit and plays potentially an infinitenumber of trials to try to reach breakeven.
+We can calculate the probability he ever reachesbreakeven, or that an attacker ever catches up with the honest chain, as follows [8]:p = probability an honest node finds the next blockq = probability the attacker finds the next blockqz = probability the attacker will ever catch up from z blocks behind98Given our assumption that p > q, the probability drops exponentially as the number of blocks theattacker has to catch up with increases.
+With the odds against him, if he doesn't make a lucky lungeforward early on, his chances become vanishingly small as he falls further behind.We now consider how long the recipient of a new transaction needs to wait before being sufficientlycertain the sender can't change the transaction.
+We assume the sender is an attacker who wants tomake the recipient believe he paid him for a while, then switch it to pay back to himself after sometime has passed.
+The receiver will be alerted when that happens, but the sender hopes it will be toolate.The receiver generates a new key pair and gives the public key to the sender shortly before signing.This prevents the sender from preparing a chain of blocks ahead of time by working on itcontinuously until he is lucky enough to get far enough ahead, then executing the transaction at thatmoment.
+Once the transaction is sent, the dishonest sender starts working in secret on a parallel chaincontaining an alternate version of his transaction.The recipient waits until the transaction has been added to a block and z blocks have been linked afterit.
+He doesn't know the exact amount of progress the attacker has made, but assuming the honestblocks took the average expected time per block, the attacker's potential progress will be a Poissondistribution with expected value:To get the probability the attacker could still catch up now, we multiply the Poisson density for eachamount of progress he could have made by the probability he could catch up from that point:Rearranging to avoid summing the infinite tail of the distribution...Converting to C code...#include <math.h>double AttackerSuccessProbability(double q, int z){double p = 1.0 - q;double lambda = z * (q / p);double sum = 1.0;int i, k;99for (k = 0; k <= z; k++){double poisson = exp(-lambda);for (i = 1; i <= k; i++)poisson *= lambda / i;sum -= poisson * (1 - pow(q / p, z - k));}return sum;}Running some results, we can see the probability drop off exponentially with z.q=0.1z=0 P=1.0000000z=1 P=0.2045873z=2 P=0.0509779z=3 P=0.0131722z=4 P=0.0034552z=5 P=0.0009137z=6 P=0.0002428z=7 P=0.0000647z=8 P=0.0000173z=9 P=0.0000046z=10 P=0.0000012q=0.3z=0 P=1.0000000z=5 P=0.1773523z=10 P=0.0416605z=15 P=0.0101008z=20 P=0.0024804z=25 P=0.0006132z=30 P=0.0001522z=35 P=0.0000379z=40 P=0.0000095z=45 P=0.0000024z=50 P=0.0000006Solving for P less than 0.1%...P < 0.001q=0.10 z=5q=0.15 z=8q=0.20 z=11q=0.25 z= 15q=0.30 z=24q=0.35 z=41q=0.40 z= 89q=0.45 z=34012.ConclusionWe have proposed a system for electronic transactions without relying on trust.
+We started with theusual framework of coins made from digital signatures, which provides strong control of ownership,but is incomplete without a way to prevent double-spending.
+To solve this, we proposed a peer-topeer network using proof-of-work to record a public history of transactions that quickly becomescomputationally impractical for an attacker to change if honest nodes control a majority of CPUpower.
+The network is robust in its unstructured simplicity.
+Nodes work all at once with littlecoordination.
+They do not need to be identified, since messages are not routed to any particular placeand only need to be delivered on a best effort basis.
+Nodes can leave and rejoin the network at will,accepting the proof-of-work chain as proof of what happened while they were gone.
+They vote withtheir CPU power, expressing their acceptance of valid blocks by working on extending them and100rejecting invalid blocks by refusing to work on them.
+Any needed rules and incentives can beenforced with this consensus mechanism.References[1] W.
+Dai, "b-money," http://www.weidai.com/bmoney.txt, 1998.[2] H.
+Massias, X.S.
+Avila, and J.-J.
+Quisquater, "Design of a secure timestamping service with minimaltrust requirements," In 20th Symposium on Information Theory in the Benelux, May 1999.[3] S.
+Haber, W.S.
+Stornetta, "How to time-stamp a digital document," In Journal of cryptology, vol 3, no2, pages 99-111, 1991.[4] D.
+Bayer, S.
+Haber, W.S.
+Stornetta, "Improving the efficiency and reliability of digital time-stamping,"In Sequences II: Methods in Communication, Security and Computer Science, pages 329-334, 1993.[5] S.
+Haber, W.S.
+Stornetta, "Secure names for bit-strings," In Proceedings of the 4th ACM Conferenceon Computer and Communications Security, pages 28-35, April 1997.[6] A.
+Back, "Hashcash - a denial of service counter-measure,"http://www.hashcash.org/papers/hashcash.pdf, 2002.[7] R.C.
+Merkle, "Protocols for public key cryptosystems," In Proc.
+1980 Symposium on Security andPrivacy, IEEE Computer Society, pages 122-133, April 1980.[8] W.
+Feller, "An introduction to probability theory and its applications," 1957.2.The History of MoneyWhat is money? By definition, it's something of value.
+But over the last 10,000 years, thematerial form that money has taken has changed considerably—from cattle and cowrie shellsto today's electronic currency.
+Here, get an overview of the history of money.101Today we value gold Kruggerands and paper Franklins, but cattle and cowrie shells have also served ascurrency.
+EnlargePhoto credit: © Steve Sucsy (coin), Skip O'Donnell (bills), narvikk (cow), Steve Goodwin (shells)/iStockEditor's Note: The dates below mark the approximate start of use.IN THE BEGINNING: BARTERBarter is the exchange of resources or services for mutual advantage, and the practice likely datesback tens of thousands of years, perhaps even to the dawn of modern humans.
+Some would evenargue that it's not purely a human activity; plants and animals have been bartering—in symbioticrelationships—for millions of years.
+In any case, barter among humans certainly pre-dates the use ofmoney.
+Today individuals, organizations, and governments still use, and often prefer, barter as a formof exchange of goods and services.9000 - 6000 B.C.: CATTLECattle, which throughout history and across the globe have included not only cows but also sheep,camels, and other livestock, are the first and oldest form of money.
+With the advent of agriculture alsocame the use of grain and other vegetable or plant products as a standard form of barter in manycultures.1200 B.C.: COWRIE SHELLS102The first use of cowries, the shells of a mollusc that was widely available in the shallow waters of thePacific and Indian Oceans, was in China.
+Historically, many societies have used cowries as money,and even as recently as the middle of this century, cowries have been used in some parts of Africa.The cowrie is the most widely and longest used currency in history.1000 B.C.: FIRST METAL MONEY AND COINSBronze and Copper cowrie imitations were manufactured by China at the end of the Stone Age andcould be considered some of the earliest forms of metal coins.
+Metal tool money, such as knife andspade monies, was also first used in China.
+These early metal monies developed into primitiveversions of round coins.
+Chinese coins were made out of base metals, often containing holes so theycould be put together like a chain.500 B.C.: MODERN COINAGEOutside of China, the first coins developed out of lumps of silver.
+They soon took the familar roundform of today, and were stamped with various gods and emperors to mark their authenticity.
+Theseearly coins first appeared in Lydia, which is part of present-day Turkey, but the techniques werequickly copied and further refined by the Greek, Persian, Macedonian, and later the Roman empires.Unlike Chinese coins which depended on base metals, these new coins were made from preciousmetals such as silver, bronze, and gold, which had more inherent value.118 B.C.: LEATHER MONEYLeather money was used in China in the form of one-foot-square pieces of white deerskin with colorfulborders.
+This could be considered the first documented type of banknote.A.D.
+800 - 900: THE NOSEThe phrase "To pay through the nose" comes from Danes in Ireland, who slit the noses of those whowere remiss in paying the Danish poll tax.806: PAPER CURRENCYThe first known paper banknotes appeared in China.
+In all, China experienced over 500 years of earlypaper money, spanning from the ninth through the fifteenth century.
+Over this period, paper notesgrew in production to the point that their value rapidly depreciated and inflation soared.
+Thenbeginning in 1455, the use of paper money in China disappeared for several hundred years.
+This wasstill many years before paper currency would reappear in Europe, and three centuries before it wasconsidered common.1500: POTLACH"Potlach" comes from a Chinook Indian custom that existed in many North American Indian cultures.
+Itis a ceremony where not only were gifts exchanged, but dances, feasts, and other public rituals wereperformed.
+In some instances potlach was a form of initiation into secret tribal societies.
+Because theexchange of gifts was so important in establishing a leader's social rank, potlach often spiralled out ofcontrol as the gifts became progressively more lavish and tribes put on larger and grander feasts andcelebrations in an attempt to out-do each other.1031535: WAMPUMThe earliest known use of wampum, which are strings of beads made from clam shells, was by NorthAmerican Indians in 1535.
+Most likely, this monetary medium existed well before this date.
+The Indianword "wampum" means white, which was the color of the beads.1816: THE GOLD STANDARDGold was officially made the standard of value in England in 1816.
+At this time, guidelines were madeto allow for a non-inflationary production of standard banknotes which represented a certain amountof gold.
+Banknotes had been used in England and Europe for several hundred years before this time,but their worth had never been tied directly to gold.
+In the United States, the Gold Standard Act wasofficially enacted in 1900, which helped lead to the establishment of a central bank.1930: END OF THE GOLD STANDARDThe massive Depression of the 1930s, felt worldwide, marked the beginning of the end of the goldstandard.
+In the United States, the gold standard was revised and the price of gold was devalued.This was the first step in ending the relationship altogether.
+The British and international goldstandards soon ended as well, and the complexities of international monetary regulation began.THE PRESENT:Today, currency continues to change and develop, as evidenced by the new $100 U.S.
+Ben Franklinbill.THE FUTURE: ELECTRONIC MONEYIn our digital age, economic transactions regularly take place electronically, without the exchange ofany physical currency.
+Digital cash in the form of bits and bytes will most likely continue to be thecurrency of the future.This feature originally appeared on the site for the NOVA program Secrets of Making Money.104About the authorMarcus de Maria is an investor and trainerSince starting in massive debt and turning it around thanks to personal development, hismission is to help as many people do the same.Marcus in his TV trading and investing series on Sky TVHe is the Founder of Your Crypto Club, where he teaches the general public how to profitfrom:1.
+Cryptocurrencies2.
+ICOs3.
+Blockchain technologyFor more information visit www.YourCryptoClub.comor email Marcus@investment-mastery.com
